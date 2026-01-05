@@ -16,7 +16,8 @@ Papa.parse("data/stops.txt", {
 
       L.marker([+stop.stop_lat, +stop.stop_lon])
         .addTo(map)
-        .bindPopup(stop.stop_name);
+        .bindPopup(`<b>${stop.stop_name}</b><br>Loading departures...`)
+        .on("click", () => loadDepartures(stop.stop_id));
     });
   }
 });
@@ -42,3 +43,12 @@ Papa.parse("data/routes.txt", {
     });
   }
 });
+
+function loadDepartures(stopId) {
+  fetch("https://legendary-spork-j6q75wqrj9gfq7jw-8080.app.github.dev/gtfs-rt/trip-updates")
+  .then(res => res.arrayBuffer())
+  .then(buffer => {
+    // Placeholder for now
+        alert("Departures will show here for stop " + stopId);
+  });
+}
