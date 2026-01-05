@@ -1,1 +1,897 @@
-
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,wheelchair_boarding
+RMT,RMT,"ROTA Main Terminal",,40.334026,-75.925004,,,1,,1
+RMT_ENTRANCE_1,RMT_ENTRANCE_1,"RMT Main Entrance",,40.334288,-75.924977,,,2,RMT,1
+RMT_ENTRANCE_2,RMT_ENTRANCE_2,"RMT Secondary Entrance",,40.333766,-75.924977,,,2,RMT,1
+1,1,"RMT Stop 1",,40.3338254,-75.9245706,,,4,RMT,0
+2,2,"RMT Stop 2",,40.3338274,-75.9248496,,,4,RMT,0
+3,3,"RMT Stop 3",,40.3338295,-75.9251687,,,4,RMT,0
+4,4,"RMT Stop 4",,40.3338438,-75.9254128,,,4,RMT,0
+5,5,"RMT Stop 5",,40.334132,-75.9253753,,,4,RMT,0
+6,6,"RMT Stop 6",,40.3341321,-75.925099,,,4,RMT,0
+7,7,"RMT Stop 7",,40.334124,-75.9247638,,,4,RMT,0
+8,8,"RMT Stop 8",,40.3341137,-75.9244902,,,4,RMT,0
+9,9,"RMT Stop A",,40.3339379,-75.9255523,,,4,RMT,0
+10,10,"RMT Stop B",,40.3341034,-75.9255523,,,4,RMT,0
+11,11,"RMT Stop C",,40.3340138,-75.9244391,,,4,RMT,0
+12,12,"RMT Stop D",,40.333885,-75.9244446,,,4,RMT,0
+13,13,"S 6th St. and Cherry St.",,40.3347336,-75.9258522,,,0,,0
+14,14,"Penn St. Bus Shelter 3",,40.3354133,-75.9276146,,,0,,0
+15,15,"N 5th St. and Court St.",,40.3364903,-75.9277526,,,0,,0
+16,16,"N 5th St. and Washington St.",,40.3372304,-75.9277337,,,0,,0
+17,17,"N 5th St. and Walnut St.",,40.3387419,-75.9276894,,,0,,0
+18,18,"N 5th St. and Elm St.",,40.3402413,-75.9276457,,,0,,0
+19,19,"N 5th St. and Buttonwood St.",,40.3418495,-75.9276007,,,0,,0
+20,20,"N 5th St. and Greenwich St.",,40.3447119,-75.9275185,,,0,,0
+21,21,"N 5th St. and Oley St.",,40.3462175,-75.9274781,,,0,,0
+22,22,"N 5th St. and Douglass St.",,40.3477154,-75.9274413,,,0,,0
+23,23,"N 5th St. and Windsor St.",,40.3491378,-75.9273992,,,0,,0
+24,24,"N 5th St. and Spring St.",,40.3506633,-75.9273521,,,0,,0
+25,25,"N 5th St. and Robeson St.",,40.3522358,-75.9273124,,,0,,0
+26,26,"N 5th St. and Marion St.",,40.353649,-75.9272734,,,0,,0
+27,27,"N 5th St. and Perry St.",,40.3551364,-75.9272282,,,0,,0
+28,28,"N 5th St. and Pike St.",,40.3565103,-75.9271893,,,0,,0
+29,29,"N 5th St. and Bern St.",,40.3625103,-75.9270194,,,0,,0
+30,30,"Reading Auto Center",,40.3649577,-75.9269123,,,0,,0
+31,31,"N 5th Street Hwy. and Crescent Ave.",,40.3677957,-75.9267404,,,0,,0
+32,32,"Papa John's Pizza",,40.3689985,-75.9266719,,,0,,0
+33,33,"N 5th Street Hwy. and Madison Ave.",,40.3750921,-75.9267554,,,0,,0
+34,34,"N 5th Street Hwy. and George St.",,40.3784047,-75.9270427,,,0,,0
+35,35,"ROTA Administrative Offices",,40.3808202,-75.9293869,,,0,,0
+36,36,"N 5th Street Hwy. and Maderia Plz.",,40.3824685,-75.9273491,,,0,,0
+37,37,"Wendy's",,40.3842397,-75.9273531,,,0,,0
+38,38,"China Wok",,40.3852001,-75.9273456,,,0,,0
+39,39,"N 5th Street Hwy. and E Bellevue Ave. (Sheetz)",,40.3872819,-75.9273458,,,0,,0
+40,40,"N 5th Street Hwy. and Elnore Ave.",,40.3984172,-75.9273847,,,0,,0
+41,41,"Turkey Hill",,40.4061479,-75.9278391,,,0,,0
+42,42,"Allentown Pike and 8th Ave.",,40.4117443,-75.9247118,,,0,,0
+43,43,"Allentown Pike and Leesport Ave.",,40.413211,-75.9226366,,,0,,0
+44,44,"Walmart Temple Supercenter #2614 (North Reading Plaza)",,40.416993,-75.9206124,,,0,,0
+45,45,"Dollar Tree (North Reading Plaza)",,40.4168174,-75.9232352,,,0,,0
+46,46,"Namco Pools","Namco Pools closed in 2013/2014. This building is currently for lease as of August 2019.",40.4161337,-75.9239809,,,0,,0
+47,47,"Allentown Pike and Leesport Ave.",,40.4130172,-75.9232782,,,0,,0
+48,48,"Allentown Pike and Las Vegas Dr.",,40.4112669,-75.9257547,,,0,,0
+49,49,"Allentown Pike and San Mateo Ln.",,40.4099765,-75.9273327,,,0,,0
+50,50,"N 5th Street Hwy. and Darby Ave.",,40.4022664,-75.9277742,,,0,,0
+51,51,"Ross Dress For Less",,40.3959704,-75.9276495,,,0,,0
+52,52,"N 5th Street Hwy. and E Bellevue Ave.",,40.3861107,-75.9275959,,,0,,0
+53,53,"N 5th Street Hwy. and Muhlenberg Plz.",,40.3838233,-75.9275909,,,0,,0
+54,54,"N 5th Street Hwy. and Muhlenberg Plz.",,40.3819677,-75.9275729,,,0,,0
+55,55,"N 5th Street Hwy. and Audrey St.",,40.3690013,-75.9268658,,,0,,0
+56,56,"N 5th Street Hwy. and Crescent Ave.",,40.3671752,-75.9269775,,,0,,0
+57,57,"N 5th St. and Bern St.",,40.362004,-75.9272315,,,0,,0
+58,58,"N 5th St. and Pike St.",,40.3559178,-75.9273951,,,0,,0
+59,59,"N 5th St. and Perry St.",,40.3545718,-75.9274346,,,0,,0
+60,60,"N 5th St. and Marion St.",,40.3530918,-75.9274872,,,0,,0
+61,61,"N 5th St. and Robeson St.",,40.3517409,-75.9275067,,,0,,0
+62,62,"N 5th St. and Spring St.",,40.3502014,-75.9275511,,,0,,0
+63,63,"N 5th St. and Windsor St.",,40.34868,-75.9275958,,,0,,0
+64,64,"N 5th St. and Douglass St.",,40.3472741,-75.927633,,,0,,0
+65,65,"Royer's Flower Shop",,40.3457596,-75.9276765,,,0,,0
+66,66,"N 5th St. and Greenwich St.",,40.3443416,-75.9277203,,,0,,0
+67,67,"N 5th St. and Woodward St.",,40.3425012,-75.9277687,,,0,,0
+68,68,"N 5th St. and Buttonwood St.",,40.3413047,-75.9277994,,,0,,0
+69,69,"N 5th St. and Elm St.",,40.3398204,-75.9278173,,,0,,0
+70,70,"N 5th St. and Walnut St.",,40.3383183,-75.9278765,,,0,,0
+71,71,"N 5th St. and Court St.",,40.3360291,-75.9279491,,,0,,0
+72,72,"S 5th St. and Penn St.",,40.3349346,-75.9279755,,,0,,0
+73,73,"S 5th St. and Cherry St.",,40.3342208,-75.9280016,,,0,,0
+74,74,"Franklin St. and S 5th St.",,40.3336195,-75.9276563,,,0,,0
+75,75,"Franklin St. and S 6th St.",,40.3335863,-75.925442,,,0,,0
+76,76,"BARTA Transportation Center",,40.3335596,-75.9236651,,,0,,0
+77,77,"Franklin St. and Lemon St.",,40.333547,-75.9227692,,,0,,0
+78,78,"Franklin St. and S 8th St.",,40.3335383,-75.9217608,,,0,,0
+79,79,"Franklin St. and Peach St.",,40.3335222,-75.9208867,,,0,,0
+80,80,"S 9th St. and Franklin St.",,40.3337806,-75.920061,,,0,,0
+81,81,"S 9th St. and Cherry St.",,40.3344824,-75.9200456,,,0,,0
+82,82,"N 9th St. and Penn St.",,40.3354187,-75.9200097,,,0,,0
+83,83,"N 9th St. and Court St.",,40.3362568,-75.9199845,,,0,,0
+84,84,"N 9th St. and Washington St.",,40.3370489,-75.9199601,,,0,,0
+85,85,"N 9th St. and Walnut St.",,40.3384893,-75.919923,,,0,,0
+86,86,"N 9th St. and Elm St.",,40.3400458,-75.9198755,,,0,,0
+87,87,"N 9th St. and Buttonwood St.",,40.3416459,-75.9198299,,,0,,0
+88,88,"N 9th St. and Green St.",,40.3431143,-75.9197886,,,0,,0
+89,89,"N 9th St. and Greenwich St.",,40.3445806,-75.9197487,,,0,,0
+90,90,"N 9th St. and Oley St.",,40.3461035,-75.9197072,,,0,,0
+91,91,"N 9th St. and Douglass St.",,40.3475781,-75.9196675,,,0,,0
+92,92,"N 9th St. and Windsor St.",,40.3490515,-75.9196228,,,0,,0
+93,93,"N 9th St. and Spring St.",,40.3506569,-75.9195819,,,0,,0
+94,94,"N 9th St. and Robeson St.",,40.3520759,-75.9195417,,,0,,0
+95,95,"N 9th St. and Marion St.",,40.35375,-75.9194943,,,0,,0
+96,96,"N 9th St. and Perry St.",,40.3549435,-75.9194608,,,0,,0
+97,97,"N 9th St. and Pike St.",,40.3565182,-75.9194175,,,0,,0
+98,98,"N 9th St. and Amity St.",,40.3581837,-75.9193681,,,0,,0
+99,99,"N 9th St. and Union St.",,40.3594408,-75.919331,,,0,,0
+100,100,"Kutztown Rd. and Exeter St.",,40.3610682,-75.9183533,,,0,,0
+101,101,"Kutztown Rd. and Rockland St.",,40.3654086,-75.9191245,,,0,,0
+102,102,"Kutztown Rd. and Delta Ave.",,40.3710462,-75.9197709,,,0,,0
+103,103,"Kutztown Rd. and Jefferson St.",,40.3731668,-75.9193269,,,0,,0
+104,104,"Kutztown Rd. and Madison Ave.",,40.3753846,-75.9185808,,,0,,0
+105,105,"Kutztown Rd. and N 11th St.",,40.3772814,-75.9184506,,,0,,0
+106,106,"Kutztown Rd. and Seminary Ave.",,40.3785541,-75.9189269,,,0,,0
+107,107,"Kutztown Rd. and Summit Ave.",,40.3801062,-75.9194303,,,0,,0
+108,108,"Kutztown Rd. and Rothermel St.",,40.3818193,-75.9198892,,,0,,0
+109,109,"Holy Guardian Angels Roman Catholic Church & Regional School",,40.3827564,-75.9200244,,,0,,0
+110,110,"Kutztown Rd. and Avenue A.",,40.3843362,-75.9201354,,,0,,0
+111,111,"Kutztown Rd. and Grove St.",,40.386159,-75.9203055,,,0,,0
+112,112,"Elizabeth Ave. and Orchard Pl.",,40.3875797,-75.9195189,,,0,,0
+113,113,"Elizabeth Ave. and Fairfield St.",,40.3879247,-75.9185066,,,0,,0
+114,114,"Elizabeth Ave. and Fremont St.",,40.3882367,-75.9176147,,,0,,0
+115,115,"Elizabeth Ave. and Arlington St.",,40.388576,-75.9166282,,,0,,0
+116,116,"Elizabeth Ave. and Ridgeway St.",,40.3889076,-75.915655,,,0,,0
+117,117,"Montclare St. and Elizabeth Ave.",,40.3898551,-75.9151914,,,0,,0
+118,118,"E Bellevue Ave. and Montclare St.",,40.3905869,-75.915956,,,0,,0
+119,119,"E Bellevue Ave. and Ridgeway St.",,40.3902476,-75.9169499,,,0,,0
+120,120,"E Bellevue Ave. and Arlington St.",,40.3899193,-75.9179152,,,0,,0
+121,121,"E Bellevue Ave. and Fremont St.",,40.3895749,-75.918898,,,0,,0
+122,122,"Kutztown Rd. and E Bellevue Ave.",,40.3887945,-75.9204113,,,0,,0
+123,123,"Kutztown Rd. and Elizabeth Ave.",,40.3870161,-75.9204576,,,0,,0
+124,124,"Kutztown Rd. and Belmont Ave.",,40.3855849,-75.9203945,,,0,,0
+125,125,"Kutztown Rd. and Emerson Ave.",,40.3837305,-75.9202651,,,0,,0
+126,126,"Kutztown Rd. and Florin Ave.",,40.3820808,-75.9200779,,,0,,0
+127,127,"Kutztown Rd. and George St.",,40.380539,-75.9197264,,,0,,0
+128,128,"Kutztown Rd. and Girard Ave.",,40.3792294,-75.9192943,,,0,,0
+129,129,"Kutztown Rd. and Monroe St.",,40.3777819,-75.9188141,,,0,,0
+130,130,"Kutztown Rd. and Lafayette St.",,40.3760447,-75.9185902,,,0,,0
+131,131,"Kutztown Rd. and Madison Ave.",,40.3745993,-75.918871,,,0,,0
+132,132,"Kutztown Rd. and Benhart Ave.",,40.3738509,-75.919042,,,0,,0
+133,133,"Kutztown Rd. and Jefferson St.",,40.3725359,-75.9199033,,,0,,0
+134,134,"Kutztown Rd. and Delta Ave.",,40.3705775,-75.9198726,,,0,,0
+135,135,"Kutztown Rd. and Adams St.",,40.3685659,-75.9197579,,,0,,0
+136,136,"Kutztown Rd. and Berks St.",,40.3666467,-75.9194244,,,0,,0
+137,137,"Kutztown Rd. and Hiesters Ln.",,40.3647028,-75.9191774,,,0,,0
+138,138,"Prospectus Berco",,40.3622468,-75.9187602,,,0,,0
+139,139,"N 9th St. and Kutztown Rd.",,40.3605117,-75.9190124,,,0,,0
+140,140,"N 9th St. and Union St.",,40.3588428,-75.9194813,,,0,,0
+141,141,"N 9th St. and Amity St.",,40.3574512,-75.9195229,,,0,,0
+142,142,"N 9th St. and Pike St.",,40.3558267,-75.9195682,,,0,,0
+143,143,"N 9th St. and Marion St.",,40.3530746,-75.9196424,,,0,,0
+144,144,"N. 9th St. and Robeson St.",,40.3514637,-75.9197272,,,0,,0
+145,145,"N 8th St. and Spring St.",,40.3500187,-75.9203145,,,0,,0
+146,146,"N 8th St. and Windsor St.",,40.3488146,-75.9208557,,,0,,0
+147,147,"N 8th St. and Hewson St.",,40.3477316,-75.9213738,,,0,,0
+148,148,"N 8th St. and Oley St.",,40.3457264,-75.9218384,,,0,,0
+149,149,"N 8th St. and Poplar Ln.",,40.3443763,-75.9218395,,,0,,0
+150,150,"N 8th St. and Green St.",,40.3427717,-75.9218828,,,0,,0
+151,151,"N 8th St. and Buttonwood St.",,40.3409997,-75.921935,,,0,,0
+152,152,"N 8th St. and Elm St.",,40.3397035,-75.9219706,,,0,,0
+153,153,"N 8th St. and Walnut St.",,40.3382057,-75.9220099,,,0,,0
+154,154,"N 8th St. and Washington St.",,40.336665,-75.9220539,,,0,,0
+155,155,"N 8th St. and Court St.",,40.3359174,-75.922072,,,0,,0
+156,156,"S 8th St. and Penn St.",,40.3350001,-75.9220993,,,0,,0
+157,157,"Cherry St. and S 8th St.",,40.3343719,-75.9224501,,,0,,0
+158,158,"N 6th St. and Penn St.",,40.3357644,-75.9258206,,,0,,0
+159,159,"N 6th St. and Court St.",,40.3364873,-75.9258028,,,0,,0
+160,160,"N 6th St. and Washington St.",,40.3371798,-75.9257891,,,0,,0
+161,161,"N 6th St. and Elm St.",,40.340211,-75.9257021,,,0,,0
+162,162,"N 6th St. and Buttonwood St.",,40.3418601,-75.9256513,,,0,,0
+163,163,"N 6th St. and Greenwich St.",,40.3447991,-75.9255735,,,0,,0
+164,164,"N 6th St. and Oley St.",,40.3461536,-75.9255319,,,0,,0
+165,165,"N 6th St. and Douglass St.",,40.3477317,-75.9254927,,,0,,0
+166,166,"N 6th St. and Windsor St.",,40.3491855,-75.9254513,,,0,,0
+167,167,"N 6th St. and Spring St.",,40.3506381,-75.9254072,,,0,,0
+168,168,"N 6th St. and Robeson St.",,40.3521269,-75.9253645,,,0,,0
+169,169,"N 6th St. and Marion St.",,40.3536542,-75.9253214,,,0,,0
+170,170,"N 6th St. and Perry St.",,40.3550966,-75.9252835,,,0,,0
+171,171,"N 6th St. and Pike St.",,40.3565246,-75.9252432,,,0,,0
+172,172,"N 6th St. and Railroad St.",,40.358058,-75.9252,,,0,,0
+173,173,"Richmond St. and N 6th St.",,40.3640266,-75.9260051,,,0,,0
+174,174,"N 5th St. and Richmond St.",,40.3633362,-75.9271915,,,0,,0
+175,175,"Bern St. and N 5th St.",,40.3622312,-75.9266248,,,0,,0
+176,176,"N 6th St. and Amity St.",,40.3574487,-75.9253532,,,0,,0
+177,177,"N 6th St. and Pike St.",,40.3561023,-75.925389,,,0,,0
+178,178,"N 6th St. and Perry St.",,40.3546244,-75.9254286,,,0,,0
+179,179,"N 6th St. and Marion St.",,40.3531371,-75.9254681,,,0,,0
+180,180,"N 6th St. and Robeson St.",,40.351705,-75.9255097,,,0,,0
+181,181,"Spring St. and N 6th St.",,40.3504668,-75.9258298,,,0,,0
+182,182,"Spring St. and Church St.",,40.3504918,-75.9270251,,,0,,0
+183,183,"Spring St. and Madison Ave.",,40.3505152,-75.9287113,,,0,,0
+184,184,"N 4th St. and Spring St.",,40.3502609,-75.9294989,,,0,,0
+185,185,"N 4th St. and Windsor St.",,40.3487453,-75.9295494,,,0,,0
+186,186,"N 4th St. and Douglass St.",,40.3472354,-75.9295852,,,0,,0
+187,187,"Oley St. and Centre Ave.",,40.3460837,-75.9298716,,,0,,0
+188,188,"Centre Ave. and Oley St.",,40.3458105,-75.9299816,,,0,,0
+189,189,"N 4th St. and Centre Ave.",,40.3449363,-75.9296711,,,0,,0
+190,190,"N 4th St. and Greenwich St.",,40.3443318,-75.9296662,,,0,,0
+191,191,"N 4th St. and Buttonwood St.",,40.3413208,-75.92975,,,0,,0
+192,192,"N 4th St. and Elm St.",,40.3398349,-75.9297917,,,0,,0
+193,193,"N 4th St. and Walnut St.",,40.3382534,-75.9298355,,,0,,0
+194,194,"N 4th St. and Washington St.",,40.3367543,-75.9298644,,,0,,0
+195,195,"N 4th St. and Court St.",,40.3360667,-75.9298996,,,0,,0
+196,196,"S 4th St. and Penn St.",,40.3349733,-75.9299261,,,0,,0
+197,197,"S 4th St. and Cherry St.",,40.3342339,-75.929949,,,0,,0
+198,198,"Franklin St. and S 4th St.",,40.3336501,-75.929592,,,0,,0
+199,199,"Penn St. and S 9th St.",,40.3351273,-75.9197324,,,0,,0
+200,200,"Penn St. and S 10th St.",,40.3351022,-75.9178502,,,0,,0
+201,201,"N 11th St. and Perkiomen Ave.",,40.3354833,-75.9161262,,,0,,0
+202,202,"Walnut Street. and N 11th St.",,40.3382222,-75.9156976,,,0,,0
+203,203,"Walnut St. and Constitution Blvd.",,40.3381918,-75.9137459,,,0,,0
+204,204,"Central Middle School",,40.3381738,-75.9127299,,,0,,0
+205,205,"N 13th St. and Walnut St.",,40.3384703,-75.9121104,,,0,,0
+206,206,"Nino & Son's Pizza",,40.3400125,-75.9120719,,,0,,0
+207,207,"Sweet Little Friends Day Care Center",,40.3416733,-75.912028,,,0,,0
+208,208,"Thirteenth and Green Elementary School",,40.3430998,-75.9119853,,,0,,0
+209,209,"N 13th St. and Greenwich St.",,40.3444806,-75.9119484,,,0,,0
+210,210,"N 13th St. and Oley St.",,40.3460103,-75.9119064,,,0,,0
+211,211,"N 13th St. and Douglass St.",,40.3474114,-75.911863,,,0,,0
+212,212,"Reading Senior High School",,40.3481494,-75.9115143,,,0,,0
+213,213,"N 13th St. and Windsor St.",,40.3489818,-75.9118204,,,0,,0
+214,214,"Hampden Blvd. and N 13th St.",,40.3498929,-75.9116148,,,0,,0
+215,215,"Hampden Blvd. and Robeson St.",,40.3518779,-75.9107807,,,0,,0
+216,216,"Hampden Blvd. and Marion St.",,40.3533154,-75.909895,,,0,,0
+217,217,"Hampden Blvd. and Perry St.",,40.3548691,-75.9088238,,,0,,0
+218,218,"Hampden Blvd. and Pike St.",,40.3561942,-75.9079823,,,0,,0
+219,219,"Hampden Blvd. and Amity St.",,40.3576247,-75.9070733,,,0,,0
+220,220,"Hampden Blvd. and Union St.",,40.359117,-75.9061264,,,0,,0
+221,221,"Hampden Blvd. and Exeter St.",,40.3605977,-75.9051867,,,0,,0
+222,222,"Hampden Blvd. and Bern St.",,40.3620322,-75.9042731,,,0,,0
+223,223,"Hampden Blvd. and Richmond St.",,40.363695,-75.9031727,,,0,,0
+224,224,"Hampden Blvd. and Rockland St.",,40.3651348,-75.9022182,,,0,,0
+225,225,"Deer Path Rd. and Hampden Blvd.",,40.3676422,-75.9011058,,,0,,0
+226,226,"N 18th St. and Deer Path Rd.",,40.3681325,-75.9015123,,,0,,0
+227,227,"Reservoir Rd. and N 18th St.",,40.3691657,-75.9007238,,,0,,0
+228,228,"Vision Resource Center of Berks County",,40.3655951,-75.902122,,,0,,0
+229,229,"Hampden Blvd. and Rockland St.",,40.3646899,-75.9027174,,,0,,0
+230,230,"College Ave. and N 17th St.",,40.3636358,-75.9042695,,,0,,0
+231,231,"College Ave. and Elder St.",,40.3636531,-75.9050323,,,0,,0
+232,232,"College Ave. and N 16th St.",,40.3636613,-75.9059417,,,0,,0
+233,233,"College Ave. and Olive St.",,40.3636139,-75.9068598,,,0,,0
+234,234,"College Ave. and N 15th St.",,40.3634459,-75.9079137,,,0,,0
+235,235,"College Ave. and Palm St.",,40.3632075,-75.9087861,,,0,,0
+236,236,"College Ave. and N 14th St.",,40.3627919,-75.9097937,,,0,,0
+237,237,"George W. Walton Hall",,40.3621355,-75.9112824,,,0,,0
+238,238,"N 13th St. and Richmond St.",,40.3639368,-75.9113984,,,0,,0
+239,239,"Weis Markets",,40.3652585,-75.9122142,,,0,,0
+240,240,"Rockland Plaza (Tower Health/Rockland Hall)",,40.3644386,-75.9131691,,,0,,0
+241,241,"N 11th St. and Richmond St.",,40.3633181,-75.9154599,,,0,,0
+242,242,"N 11th St. and Bern St.",,40.3617522,-75.9154962,,,0,,0
+243,243,"Exeter St. and N 11th St.",,40.3605701,-75.9150656,,,0,,0
+244,244,"N 12th St. and Exeter St.",,40.3603365,-75.9135948,,,0,,0
+245,245,"N 12th St. and Union St.",,40.3588955,-75.9136335,,,0,,0
+246,246,"N 12th St. and Amity St.",,40.3574178,-75.9136809,,,0,,0
+247,247,"Super Natural Produce",,40.355973,-75.9137212,,,0,,0
+248,248,"Twelfth & Marion Elementary School",,40.3542858,-75.91377,,,0,,0
+249,249,"N 12th St. and Marion St.",,40.3529646,-75.9138017,,,0,,0
+250,250,"N 12th St. and Robeson St.",,40.3514982,-75.9138481,,,0,,0
+251,251,"N 12th St. and Spring St.",,40.3500282,-75.9138891,,,0,,0
+252,252,"N 12th St. and Windsor St.",,40.3484218,-75.9139318,,,0,,0
+253,253,"N 12th St. and Douglass St.",,40.3471026,-75.9139689,,,0,,0
+254,254,"N 12th St. and Oley St.",,40.345518,-75.9140154,,,0,,0
+255,255,"N 12th St. and Greenwich St.",,40.3439664,-75.9140626,,,0,,0
+256,256,"N 12th St. and Green St.",,40.3425422,-75.9140999,,,0,,0
+257,257,"N 12th St. and Buttonwood St.",,40.3411472,-75.9141373,,,0,,0
+258,258,"Elm St. and N 12th St.",,40.3397997,-75.9144242,,,0,,0
+259,259,"Elm St. and Locust St.",,40.3398227,-75.9152663,,,0,,0
+260,260,"Elm St. and N 11th St.",,40.3398277,-75.9162757,,,0,,0
+261,261,"Elm St. and Saul's Ct.",,40.3398494,-75.9173975,,,0,,0
+262,262,"N 10th St. and Elm St.",,40.3395688,-75.9180868,,,0,,0
+263,263,"N 10th St. and Walnut St.",,40.338149,-75.9181281,,,0,,0
+264,264,"N 10th St. and Washington St.",,40.3366475,-75.9181687,,,0,,0
+265,265,"N 10th St. and Court St.",,40.3358708,-75.9181931,,,0,,0
+266,266,"Tenth and Penn Elementary School",,40.335253,-75.9184289,,,0,,0
+267,267,"Penn St. and N 9th St.",,40.3352798,-75.9203401,,,0,,0
+268,268,"Perkiomen Ave. and S 11th St.",,40.3349967,-75.9159594,,,0,,0
+269,269,"Perkiomen Ave. and Franklin St.",,40.3333186,-75.9137765,,,0,,0
+270,270,"Perkiomen Ave. and Chestnut St.",,40.3316018,-75.9118264,,,0,,0
+271,271,"Perkiomen Ave. and Spruce St.",,40.330801,-75.9109077,,,0,,0
+272,272,"Perkiomen Ave. and S 14th St.",,40.3300382,-75.9098303,,,0,,0
+273,273,"Perkiomen Ave. and S 15th St.",,40.3297404,-75.9080889,,,0,,0
+274,274,"Perkiomen Ave. and S 16th St.",,40.3293929,-75.9061179,,,0,,0
+275,275,"Perkiomen Ave. and S 17th St.",,40.3290569,-75.9041561,,,0,,0
+276,276,"S 18th St. and Perkiomen Ave.",,40.3290048,-75.902328,,,0,,0
+277,277,"Pendora Park",,40.3293845,-75.9016702,,,0,,0
+278,278,"S 19th St. and Perkiomen Ave.",,40.3287636,-75.9005019,,,0,,0
+279,279,"Perkiomen Ave. and S 19th St.",,40.3283622,-75.9002415,,,0,,0
+280,280,"Perkiomen Ave. and S 20th St.",,40.3278087,-75.8969537,,,0,,0
+281,281,"Perkiomen Ave. and S 21st St.",,40.3276779,-75.8957816,,,0,,0
+282,282,"Perkiomen Ave. and S 22nd St.",,40.3277347,-75.8936958,,,0,,0
+283,283,"Perkiomen Ave. and S 23rd St.",,40.3278808,-75.8914995,,,0,,0
+284,284,"Perkiomen Ave. and S 24th St.",,40.3278132,-75.889787,,,0,,0
+285,285,"Turkey Hill",,40.32775,-75.8881862,,,0,,0
+286,286,"Butter Ln. and Perkiomen Ave.",,40.3278786,-75.8843228,,,0,,0
+287,287,"Butter Ln. and N 27th St.",,40.3289565,-75.8822943,,,0,,0
+288,288,"Butter Ln. and S High St.",,40.3302974,-75.8797479,,,0,,0
+289,289,"Butter Ln. and N Prospect St.",,40.3314031,-75.8771491,,,0,,0
+290,290,"Butter Ln. and George St.",,40.3316564,-75.8756265,,,0,,0
+291,291,"Butter Ln. and Park St.",,40.3324096,-75.8745131,,,0,,0
+292,292,"Butter Ln. and Mayer St.",,40.3331244,-75.8736957,,,0,,0
+293,293,"Butter Ln. and Opal Ave.",,40.3339064,-75.8734021,,,0,,0
+294,294,"Butter Ln. and Emerald Ave.",,40.3352545,-75.8730421,,,0,,0
+295,295,"Harvey Ave. and Butter Ln.",,40.3361312,-75.8731974,,,0,,0
+296,296,"Byram St. and Harvey Ave.",,40.3373262,-75.8755555,,,0,,0
+297,297,"Carsonia Park Playground",,40.3382305,-75.874602,,,0,,0
+298,298,"Navella Ave. and Byram St.",,40.3389136,-75.8743365,,,0,,0
+299,299,"Penndale Ave. and Navella Ave.",,40.3390422,-75.875054,,,0,,0
+300,300,"Penndale Ave. and Sweigart Ln.",,40.3380628,-75.8760938,,,0,,0
+301,301,"Harvey Ave. and Byram St.",,40.3368966,-75.8757648,,,0,,0
+302,302,"Butter Ln. and Harvey Ave.",,40.3355212,-75.8729899,,,0,,0
+303,303,"Butter Ln. and Filbert Ave.",,40.3342362,-75.8735331,,,0,,0
+304,304,"Butter Ln. and Opal Ave.",,40.3331347,-75.8738558,,,0,,0
+305,305,"Butter Ln. and Mayer St.",,40.3327722,-75.8742692,,,0,,0
+306,306,"Butter Ln. and Park St.",,40.3320662,-75.8750749,,,0,,0
+307,307,"Butter Ln. and George St.",,40.3315963,-75.8764844,,,0,,0
+308,308,"Butter Ln. and Prospect St.",,40.3311783,-75.8782618,,,0,,0
+309,309,"Butter Ln. and High St.",,40.330034,-75.8804533,,,0,,0
+310,310,"Butter Ln. and Hollywood Ct.",,40.3295029,-75.8814627,,,0,,0
+311,311,"N 27th St. and Butter Ln.",,40.3284525,-75.8827434,,,0,,0
+312,312,"Perkiomen Ave. and N 27th St.",,40.3276776,-75.8829902,,,0,,0
+313,313,"Perkiomen Ave. and Endlich Ave.",,40.3277501,-75.8855274,,,0,,0
+314,314,"Berks County Insurance",,40.3278623,-75.8883832,,,0,,0
+315,315,"Perkiomen Ave. and N 24th St.",,40.3279419,-75.8904288,,,0,,0
+316,316,"Howard Blvd. and N 23rd St.",,40.3284008,-75.8921228,,,0,,0
+317,317,"N 22nd St. and Perkiomen Ave.",,40.3279152,-75.8940641,,,0,,0
+318,318,"S 18th St. and Forrest St.",,40.3293614,-75.9024254,,,0,,0
+319,319,"Perkiomen Ave. and S 18th St.",,40.3289058,-75.9026746,,,0,,0
+320,320,"Perkiomen Ave. and S 17 1/2 St.",,40.3290675,-75.9035908,,,0,,0
+321,321,"Perkiomen Ave. and S 17th St.",,40.3292387,-75.9046124,,,0,,0
+322,322,"Perkiomen Ave. and S 16th St.",,40.3296017,-75.9066594,,,0,,0
+323,323,"Perkiomen Ave. and Clymer St.",,40.3299809,-75.9088707,,,0,,0
+324,324,"Perkiomen Ave. and Spruce St.",,40.3311373,-75.9111143,,,0,,0
+325,325,"Perkiomen Ave. and Mineral Spring Rd.",,40.3321913,-75.9123086,,,0,,0
+326,326,"Perkiomen Ave. and Eckert Ave.",,40.3329561,-75.9131843,,,0,,0
+327,327,"Penn St. and N 11th St.",,40.3352204,-75.9163935,,,0,,0
+328,328,"Perkiomen Ave. and S 18th St.",,40.3287109,-75.9021522,,,0,,0
+329,329,"Perkiomen Ave. and Butter Ln.",,40.3275961,-75.8842077,,,0,,0
+330,330,"Perkiomen Ave. and S 27th St.",,40.3275661,-75.8824558,,,0,,0
+331,331,"Perkiomen Ave. and Perkiomen Ave. (branch)",,40.3233799,-75.876472,,,0,,0
+332,332,"Perkiomen Ave. and W 34th St.",,40.3207236,-75.8754366,,,0,,0
+333,333,"Perkiomen Ave. and W 36th St.",,40.3192469,-75.8746707,,,0,,0
+334,334,"Reading Mall (Boscov's)",,40.308549,-75.8667723,,,0,,0
+335,335,"Sonic Drive-In (Exeter Common's)",,40.3091093,-75.8633672,,,0,,0
+336,336,"Starbucks (Exeter Common's)",,40.3085524,-75.8624619,,,0,,0
+337,337,"GIANT Gasoline (Exeter Common's)",,40.3079924,-75.8614396,,,0,,0
+338,338,"Tower Health Urgent Care (Exeter Common's)",,40.3073349,-75.8601789,,,0,,0
+339,339,"GIANT Food & Drugstore (Exeter Common's)",,40.3079392,-75.8587139,,,0,,0
+340,340,"Target (Exeter Common's)",,40.3084023,-75.8596716,,,0,,0
+341,341,"Lowe's Garden Center (Exeter Common's)",,40.3092465,-75.861308,,,0,,0
+342,342,"Citizens Bank",,40.3116392,-75.8676589,,,0,,0
+343,343,"Fulton Bank",,40.3130828,-75.8691222,,,0,,0
+344,344,"Exeter Mart",,40.3149381,-75.8708598,,,0,,0
+345,345,"Domino's Pizza",,40.31666,-75.8724146,,,0,,0
+346,346,"Exeter Smiles",,40.3180197,-75.8735053,,,0,,0
+347,347,"Perkiomen Ave. and E 36th St.",,40.3194267,-75.8745032,,,0,,0
+348,348,"Perkiomen Ave. and E 34th St.",,40.3211966,-75.8753957,,,0,,0
+349,349,"Perkiomen Ave. and Beechwood Dr.",,40.3218518,-75.8756901,,,0,,0
+350,350,"Sebastiano's Italian Restaurant and Pizzeria",,40.3227004,-75.875979,,,0,,0
+351,351,"Little Caesars",,40.3271256,-75.8787953,,,0,,0
+352,352,"Perkiomen Ave. and St Lawrence Ave.",,40.3276627,-75.8811765,,,0,,0
+353,353,"Perkiomen Ave. and S 19th St.",,40.3285749,-75.9007703,,,0,,0
+354,354,"Cherry St. and S 6th St.",,40.3344351,-75.9263071,,,0,,0
+355,355,"Cherry St. and S 5th St.",,40.3344669,-75.9282524,,,0,,0
+356,356,"S 4th St. and Franklin St.",,40.3334006,-75.929983,,,0,,0
+357,357,"S 4th St. and Chestnut St.",,40.3319757,-75.9300266,,,0,,0
+358,358,"S 4th St. and Spruce St.",,40.3305154,-75.9300694,,,0,,0
+359,359,"S 4th St. and Pine St.",,40.3290205,-75.93013,,,0,,0
+360,360,"Reading Parking Authority",,40.3282932,-75.930158,,,0,,0
+361,361,"Morgantown Rd. and Lancaster Ave.",,40.3234766,-75.933422,,,0,,0
+362,362,"Morgantown Rd. and Fern Ave.",,40.3225501,-75.9306193,,,0,,0
+363,363,"Morgantown Rd. and Park Ave.",,40.3220485,-75.9292166,,,0,,0
+364,364,"Morgantown Rd. and Summit Ave.",,40.3213313,-75.9279509,,,0,,0
+365,365,"Morgantown Rd. and Prospect Ave.",,40.3197063,-75.9262396,,,0,,0
+366,366,"Morgantown Rd. and Belvedere Ave.",,40.3184737,-75.9260143,,,0,,0
+367,367,"Belvedere Ave. and Bartlett St.",,40.3182766,-75.9271866,,,0,,0
+368,368,"Belvedere Ave. and Arlington St.",,40.3181493,-75.9279608,,,0,,0
+369,369,"Belvedere Ave. and Carroll St.",,40.317828,-75.929912,,,0,,0
+370,370,"Summit Ave. and Grace St.",,40.3172815,-75.9321693,,,0,,0
+371,371,"Noble St. and Hawthorne St.",,40.316015,-75.9325316,,,0,,0
+372,372,"Upland Ave. and Noble St.",,40.3155277,-75.9322258,,,0,,0
+373,373,"Upland Ave. and Jackson St.",,40.3132518,-75.9381634,,,0,,0
+374,374,"Upland Ave. and Commonwealth Blvd.",,40.3128021,-75.9394611,,,0,,0
+375,375,"New Holland Rd. and Daniels Ave.",,40.3123859,-75.9417388,,,0,,0
+376,376,"New Holland Rd. and Baker Ave.",,40.3113521,-75.9428532,,,0,,0
+377,377,"New Holland Rd. and McAdoo Ave.",,40.3104258,-75.9438505,,,0,,0
+378,378,"New Holland Rd. and Kenhorst Blvd.",,40.3093405,-75.9450225,,,0,,0
+379,379,"New Holland Rd. and Quentin Ave.",,40.3082471,-75.9459295,,,0,,0
+380,380,"New Holland Rd. and Haig Blvd.",,40.306808,-75.9468185,,,0,,0
+381,381,"New Holland Rd. and Harding Ave.",,40.3060391,-75.9469027,,,0,,0
+382,382,"New Holland Rd. and E High Blvd.",,40.3037984,-75.9469586,,,0,,0
+383,383,"Truist (Kenhorst Plaza)",,40.2986131,-75.9483131,,,0,,0
+384,384,"H&R Block (Kenhorst Plaza)",,40.3002532,-75.9485078,,,0,,0
+385,385,"Redner's (Kenhorst Plaza)",,40.2993485,-75.9491566,,,0,,0
+386,386,"One United Church of Christ",,40.3027804,-75.9467116,,,0,,0
+387,387,"New Holland Rd. and High Blvd.",,40.3044795,-75.9467945,,,0,,0
+388,388,"Milford Ave. and New Holland Rd.",,40.3052297,-75.9464296,,,0,,0
+389,389,"Milford Ave. and Fayette Ave.",,40.3052038,-75.9455987,,,0,,0
+390,390,"Kenhorst Blvd. and Milford Ave.",,40.3055191,-75.9445889,,,0,,0
+391,391,"Bellefonte Ave. and Cortland Ave.",,40.3069626,-75.9438444,,,0,,0
+392,392,"Bellefonte Ave. and Lacrosse Ave.",,40.3070754,-75.9424185,,,0,,0
+393,393,"Bellefonte Ave. and Bleeker Ave.",,40.3071523,-75.94145,,,0,,0
+394,394,"Broadway Blvd. and Bellefonte Ave.",,40.3075749,-75.9405444,,,0,,0
+395,395,"Broadway Blvd. and Tyrone Ave.",,40.3084821,-75.9406594,,,0,,0
+396,396,"Broadway Blvd. and Muncy Ave.",,40.3107012,-75.9410374,,,0,,0
+397,397,"Upland Ave. and Broadway Blvd.",,40.3125785,-75.9400349,,,0,,0
+398,398,"Upland Ave. and Commonwealth Blvd.",,40.3129343,-75.9387032,,,0,,0
+399,399,"Upland Ave. and Commons Ct.",,40.3141687,-75.935344,,,0,,0
+400,400,"Upland Ave. and St Nicolas St.",,40.3145201,-75.9344553,,,0,,0
+401,401,"St Bernardine St. and Upland Ave.",,40.3144814,-75.9337079,,,0,,0
+402,402,"St Bernardine St. and Greenway Terrace",,40.3133101,-75.9329349,,,0,,0
+403,403,"Alvernia University",,40.3118646,-75.9319768,,,0,,0
+404,404,"Angelica Park",,40.3108068,-75.9280244,,,0,,0
+405,405,"Morgantown Rd. and Brentwood Dr.",,40.3146614,-75.9246068,,,0,,0
+406,406,"Morgantown Rd. and Orrton Ave.",,40.3157063,-75.9249057,,,0,,0
+407,407,"Upland Ave. and Morgantown Rd.",,40.3170051,-75.925728,,,0,,0
+408,408,"Upland Ave. and Bartlett St.",,40.3168622,-75.9265975,,,0,,0
+409,409,"Upland Ave. and Arlington St.",,40.3167078,-75.9274828,,,0,,0
+410,410,"Upland Ave. and Crestmont St.",,40.3165477,-75.928475,,,0,,0
+411,411,"Upland Ave. and Carroll St.",,40.3163774,-75.929507,,,0,,0
+412,412,"Upland Ave. and Pansy St.",,40.3162232,-75.9304233,,,0,,0
+413,413,"Noble St. and Upland Ave.",,40.3158548,-75.932022,,,0,,0
+414,414,"Summit Ave. and Noble St.",,40.3164498,-75.9327698,,,0,,0
+415,415,"Belvedere Ave. and Grace St.",,40.3175046,-75.9311946,,,0,,0
+416,416,"Belvedere Ave. and Pansy St.",,40.3176517,-75.9302917,,,0,,0
+417,417,"Belvedere Ave. and Carroll St.",,40.3178192,-75.9292958,,,0,,0
+418,418,"Belvedere Ave. and Crestmont St.",,40.3179701,-75.9283843,,,0,,0
+419,419,"Belvedere Ave. and Arlington St.",,40.3181281,-75.9274109,,,0,,0
+420,420,"Belvedere Ave. and Bartlett St.",,40.3183071,-75.9263796,,,0,,0
+421,421,"Morgantown Rd. and Belvedere Ave.",,40.3186651,-75.9257382,,,0,,0
+422,422,"Morgantown Rd. and Prospect Ave.",,40.3201273,-75.9261582,,,0,,0
+423,423,"Morgantown Rd. and Eberly St.",,40.3206904,-75.9265621,,,0,,0
+424,424,"Morgantown Rd. and Summit Ave.",,40.3219444,-75.928658,,,0,,0
+425,425,"Morgantown Rd. and Park Ave.",,40.3224336,-75.9297144,,,0,,0
+426,426,"Laurel St. and S 4th St.",,40.3276199,-75.9298232,,,0,,0
+427,427,"S 5th St. and Laurel St.",,40.3280349,-75.9280305,,,0,,0
+428,428,"S 5th St. and Pine St.",,40.3290563,-75.9279952,,,0,,0
+429,429,"S 5th St. and Spruce St.",,40.3309067,-75.927936,,,0,,0
+430,430,"S 5th St. and Chestnut St.",,40.3324011,-75.9278853,,,0,,0
+431,431,"Lancaster Ave. and E Wyomissing Blvd.",,40.3236118,-75.933945,,,0,,0
+432,432,"Trulieve",,40.322294,-75.9343092,,,0,,0
+433,433,"Family Dollar",,40.3215055,-75.9345276,,,0,,0
+434,434,"Wawa",,40.3208123,-75.9349622,,,0,,0
+435,435,"Lancaster Ave. and Grace St.",,40.3197111,-75.9359346,,,0,,0
+436,436,"Lancaster Ave. and N Noble St.",,40.3184804,-75.9370755,,,0,,0
+437,437,"American Barber and Beauty Academy",,40.3161815,-75.9394612,,,0,,0
+438,438,"Piazza Honda of Reading",,40.3151823,-75.9416327,,,0,,0
+439,439,"Brookline Plaza and Lancaster Ave.",,40.314604,-75.9440584,,,0,,0
+440,440,"Brookline Plaza and Gregg Ave.",,40.3153715,-75.9445684,,,0,,0
+441,441,"Brookline Plaza and Meade St.",,40.3160887,-75.9450464,,,0,,0
+442,442,"Brookline Plaza and McClellan St.",,40.3169539,-75.9456229,,,0,,0
+443,443,"Brookline Plaza and Clifton Ave.",,40.318108,-75.9460257,,,0,,0
+444,444,"Brookline Plaza and Liggett Ave.",,40.3184829,-75.9466785,,,0,,0
+445,445,"Brookline Plaza and Scott St.",,40.3196281,-75.9470281,,,0,,0
+446,446,"Brookline Plaza and Patton Ave.",,40.3202843,-75.9476613,,,0,,0
+447,447,"Pershing Blvd. and Brookline Plaza",,40.3208024,-75.9481935,,,0,,0
+448,448,"McClellan St. and Pershing Blvd.",,40.3216098,-75.9466843,,,0,,0
+449,449,"McClellan St. and Patton Ave.",,40.3208801,-75.9456577,,,0,,0
+450,450,"McClellan St. and Scott St.",,40.3199012,-75.9449463,,,0,,0
+451,451,"Liggett Ave. and McClellan St.",,40.3192529,-75.9442703,,,0,,0
+452,452,"Hancock Blvd. and Liggett Ave.",,40.3198021,-75.9427511,,,0,,0
+453,453,"Hancock Blvd. and Gerry St.",,40.3180797,-75.9420645,,,0,,0
+454,454,"Hancock Blvd. and Meade St.",,40.3168728,-75.9420661,,,0,,0
+455,455,"Hancock Blvd. and Gregg Ave.",,40.315749,-75.941674,,,0,,0
+456,456,"Lancaster Ave. and Hoover Ave.",,40.3153114,-75.9408745,,,0,,0
+457,457,"Lancaster Ave. and New Holland Rd.",,40.3164558,-75.9387715,,,0,,0
+458,458,"Lancaster Ave. and Angelica St.",,40.3177174,-75.937549,,,0,,0
+459,459,"Lancaster Ave. and Noble St.",,40.3187579,-75.9365692,,,0,,0
+460,460,"Lancaster Ave. and Grace St.",,40.3199896,-75.935443,,,0,,0
+461,461,"McDonald's",,40.3207034,-75.9348106,,,0,,0
+462,462,"Lancaster Ave. and Carroll St.",,40.3214334,-75.9343437,,,0,,0
+463,463,"Lancaster Ave. and Arlington St.",,40.3229418,-75.9339289,,,0,,0
+464,464,"Laurel St. and S 5th St.",,40.3275937,-75.9278508,,,0,,0
+465,465,"S 6th St. and Laurel St.",,40.3278115,-75.9260639,,,0,,0
+466,466,"S 6th St. and Bingaman St.",,40.3297111,-75.9260116,,,0,,0
+467,467,"S 6th St. and Spruce St.",,40.3308206,-75.9259841,,,0,,0
+468,468,"S 6th St. and Chestnut St.",,40.3323648,-75.9259366,,,0,,0
+469,469,"Lancaster Ave. and Brookline Plaza",,40.3141277,-75.9443538,,,0,,0
+470,470,"Kenhorst Blvd. and Gregg Ave.",,40.314257,-75.9486507,,,0,,0
+471,471,"Kenhorst Blvd. and Meade St.",,40.3153551,-75.9493801,,,0,,0
+472,472,"Liggett Ave. and Kenhorst Blvd.",,40.315966,-75.9504412,,,0,,0
+473,473,"Liggett Ave. and McArthur Ave.",,40.3150028,-75.9522467,,,0,,0
+474,474,"Liggett Ave. and Pershing Blvd.",,40.313135,-75.95578,,,0,,0
+475,475,"Liggett Ave. and Summit Ave.",,40.3121056,-75.9577107,,,0,,0
+476,476,"Devon Terrace and Pennsylvania Ave.",,40.3100658,-75.961582,,,0,,0
+477,477,"E Elm St. and Wheatland Ave.",,40.3082247,-75.9623304,,,0,,0
+478,478,"N Waverly St. and E Elm St.",,40.3077281,-75.9638157,,,0,,0
+479,479,"Reading Ave. and N Waverly St.",,40.3083306,-75.9646454,,,0,,0
+480,480,"State St. and Reading Ave.",,40.3078678,-75.9661422,,,0,,0
+481,481,"Pennsylvania Ave. and State St.",,40.3083647,-75.9671247,,,0,,0
+482,482,"Pennsylvania Ave. and N Brobst St.",,40.3077143,-75.9686358,,,0,,0
+483,483,"Elsie St. and Pennsylvania Ave.",,40.3069096,-75.9692977,,,0,,0
+484,484,"N Miller St. and Elsie St.",,40.306397,-75.9685526,,,0,,0
+485,485,"W Elm St. and N Miller St.",,40.3056336,-75.9686034,,,0,,0
+486,486,"Liberty St. and W Elm St.",,40.3054054,-75.9684636,,,0,,0
+487,487,"Grace Evangelical Lutheran Church",,40.3042869,-75.9682359,,,0,,0
+488,488,"Liberty St. and Reber-Moore Ln.",,40.3038448,-75.9681443,,,0,,0
+489,489,"E Lancaster Ave. and Liberty St.",,40.3036504,-75.967355,,,0,,0
+490,490,"Lancaster Ave. and S Brobst St.",,40.3045158,-75.9653437,,,0,,0
+491,491,"E Lancaster Ave. and S Waverly St.",,40.3058652,-75.962205,,,0,,0
+492,492,"Rite Aid (Shillington Shopping Center)",,40.3070613,-75.9579205,,,0,,0
+493,493,"PennDOT Driver License Center (Shillington Shopping Center)",,40.3074132,-75.9565836,,,0,,0
+494,494,"GIANT (The Shoppes at Shillington)",,40.3075702,-75.9544792,,,0,,0
+495,495,"Lancaster Ave. and S Summit Ave.",,40.3094269,-75.9538084,,,0,,0
+496,496,"Lancaster Ave. and Funston Ave.",,40.3110718,-75.950693,,,0,,0
+497,497,"Lancaster Ave. and McArthur Ave.",,40.3119838,-75.948972,,,0,,0
+498,498,"Lancaster Ave. and S Kenhorst Blvd.",,40.3127427,-75.9474518,,,0,,0
+499,499,"Lancaster Ave. and McAdoo Ave.",,40.3133727,-75.9458372,,,0,,0
+500,500,"Lancaster Ave. and Baker Ave.",,40.3140179,-75.9441825,,,0,,0
+501,501,"Lancaster Ave. and Daniels Ave.",,40.3146318,-75.9426107,,,0,,0
+502,502,"S 5th St. and Cherry St.",,40.3347633,-75.9278003,,,0,,0
+503,503,"Penn St. Bus Shelter 7",,40.3354496,-75.9286316,,,0,,0
+504,504,"Penn St. and N 4th St.",,40.3354267,-75.9304317,,,0,,0
+505,505,"Penn St. and N 3rd St.",,40.3354516,-75.9321236,,,0,,0
+506,506,"Penn St. and N 2nd St.",,40.3354647,-75.9334282,,,0,,0
+507,507,"Penn Ave. and S 2nd Ave.",,40.3349453,-75.9421082,,,0,,0
+508,508,"S 5th Ave. and Penn Ave.",,40.3354929,-75.9477566,,,0,,0
+509,509,"S 5th Ave. and Cherry St.",,40.3350168,-75.9478032,,,0,,0
+510,510,"S 5th Ave. and Franklin St.",,40.3343573,-75.9478668,,,0,,0
+511,511,"S 5th Ave. and Grape St.",,40.3338974,-75.9479148,,,0,,0
+512,512,"S 5th Ave. and Deer Alley",,40.3332368,-75.9479786,,,0,,0
+513,513,"Reading Hospital",,40.3320093,-75.9481227,,,0,,0
+514,514,"S 5th Ave. and Reading Health Ln.",,40.3310167,-75.9482003,,,0,,0
+515,515,"Reading Hospital 5th Ave. Entrance",,40.3299675,-75.9483072,,,0,,0
+516,516,"Museum Rd. and S 5th Ave.",,40.3292721,-75.9484512,,,0,,0
+517,517,"Museum Rd. and Sunset Rd.",,40.3286353,-75.9487452,,,0,,0
+518,518,"Museum Rd. and Parkside Dr. N",,40.327771,-75.9494293,,,0,,0
+519,519,"Museum Rd. and Parkside Dr. S",,40.3264163,-75.9508436,,,0,,0
+520,520,"Museum Rd. and Orchard Rd.",,40.3252798,-75.9520428,,,0,,0
+521,521,"Old Wyomissing Rd. and Evergreen Rd.",,40.3231269,-75.955591,,,0,,0
+522,522,"Old Wyomissing Rd. and Barberry Rd.",,40.3223404,-75.9578631,,,0,,0
+523,523,"Old Wyomissing Rd. and Ivy Rd.",,40.32245,-75.959063,,,0,,0
+524,524,"Wyomissing Blvd. and Old Wyomissing Rd.",,40.3230942,-75.9593589,,,0,,0
+525,525,"Orchard Ln. and Wyomissing Blvd.",,40.3240338,-75.9592666,,,0,,0
+526,526,"Orchard Ln. and Ivy Ln.",,40.3242637,-75.9586882,,,0,,0
+527,527,"Orchard Ln. and Barberry Rd.",,40.3245182,-75.9580012,,,0,,0
+528,528,"Orchard Rd. and Evergreen Rd.",,40.3253312,-75.9552983,,,0,,0
+529,529,"Museum Rd. and Orchard Rd.",,40.3256821,-75.9514264,,,0,,0
+530,530,"Museum Rd. and Parkside Dr. S",,40.3268231,-75.9502221,,,0,,0
+531,531,"Museum Rd. and Sunset Rd.",,40.3289313,-75.9484292,,,0,,0
+532,532,"Museum Rd. and S 5th Ave.",,40.3304154,-75.9481086,,,0,,0
+533,533,"S 5th Ave. and Pine St.",,40.3310602,-75.9480458,,,0,,0
+534,534,"S 5th Ave. and Oak Terrace",,40.3317683,-75.9479843,,,0,,0
+535,535,"S 5th Ave. and Spruce St.",,40.3325297,-75.9479109,,,0,,0
+536,536,"S 5th Ave. and Chestnut St.",,40.3338139,-75.9477849,,,0,,0
+537,537,"S 5th Ave. and Grape St.",,40.334265,-75.9477439,,,0,,0
+538,538,"S 5th Ave. and Franklin St.",,40.3348422,-75.947686,,,0,,0
+539,539,"S 5th Ave. and Cherry St.",,40.3352915,-75.9476425,,,0,,0
+540,540,"Penn Ave. and S 5th Ave.",,40.3355802,-75.9473046,,,0,,0
+541,541,"Penn Ave. and S 4th Ave.",,40.3353951,-75.9453104,,,0,,0
+542,542,"Penn Ave. and S 2nd Ave.",,40.3348906,-75.9425926,,,0,,0
+543,543,"Penn St. and S 2nd St.",,40.3353228,-75.9334644,,,0,,0
+544,544,"Penn St. and S 3rd St.",,40.3352969,-75.9314653,,,0,,0
+545,545,"Penn St. Bus Shelter 6",,40.3352156,-75.9281417,,,0,,0
+546,546,"Penn St. Bus Shelter 1",,40.3354243,-75.9273757,,,0,,0
+547,547,"Penn Ave. and N 5th Ave.",,40.3357701,-75.9480858,,,0,,0
+548,548,"Penn Ave. and N 6th Ave.",,40.335882,-75.9501003,,,0,,0
+549,549,"Penn Ave. and N 7th Ave.",,40.3359977,-75.9521059,,,0,,0
+550,550,"Penn Ave. and 8th Ave.",,40.336044,-75.9539403,,,0,,0
+551,551,"Penn Ave. and Park Rd.",,40.3356575,-75.9563529,,,0,,0
+552,552,"Penn Ave. and Reading Ave.",,40.335225,-75.9591208,,,0,,0
+553,553,"Penn Ave. and Bern Rd.",,40.335002,-75.960437,,,0,,0
+554,554,"Penn Ave. and N Trent Ave.",,40.334455,-75.9618447,,,0,,0
+555,555,"State Hill Rd. and Penn Ave.",,40.3338844,-75.963914,,,0,,0
+556,556,"State Hill Rd. and Hobart Ave.",,40.3346751,-75.9644012,,,0,,0
+557,557,"Ruby Tuesday (Berkshire Mall)",,40.3397321,-75.9712067,,,0,,0
+558,558,"State Hill Rd. and Woodland Rd.",,40.3385611,-75.9737037,,,0,,0
+559,559,"Walmart Wyomissing Store #1670 (Berkshire Square)",,40.3424714,-75.979624,,,0,,0
+560,560,"Redner's Fresh Market (Berkshire Square)",,40.3425378,-75.9801963,,,0,,0
+561,561,"Plato's Closet (Berkshire Square)",,40.3413533,-75.9816541,,,0,,0
+562,562,"State Hill Rd. and Colony Dr.",,40.3410984,-75.9841756,,,0,,0
+563,563,"State Hill Rd. and Salem Rd.",,40.3414099,-75.9865759,,,0,,0
+564,564,"Wells Fargo",,40.342037,-75.9889376,,,0,,0
+565,565,"PennState Health",,40.3434821,-75.9880955,,,0,,0
+566,566,"Broadcasting Rd. and Keiser Blvd.",,40.3446735,-75.9899107,,,0,,0
+567,567,"Broadcasting Rd. and Westview Dr.",,40.3434489,-75.9911709,,,0,,0
+568,568,"State Hill Rd. and Broadcasting Rd.",,40.3422466,-75.9926213,,,0,,0
+569,569,"State Hill Rd. and Van Reed Rd.",,40.3447008,-75.9996107,,,0,,0
+570,570,"Spring Meadow (GIANT)",,40.3439767,-76.0015938,,,0,,0
+571,571,"Fromuth Racquet Sports",,40.3415182,-76.0014037,,,0,,0
+572,572,"Snyder Rd. and Van Reed Rd.",,40.3391649,-76.0026042,,,0,,0
+573,573,"Snyder Rd. and Bressler Dr.",,40.3385983,-76.00169,,,0,,0
+574,574,"Snyder Rd. and Gring Dr.",,40.3377827,-76.0003746,,,0,,0
+575,575,"Snyder Rd. and Wassner Dr.",,40.3371438,-75.9993336,,,0,,0
+576,576,"Snyder Rd. and Bell Dr.",,40.3366581,-75.9985578,,,0,,0
+577,577,"Snyder Rd. and Lasalle Dr.",,40.3360428,-75.9975904,,,0,,0
+578,578,"Wellington Blvd. and Evergreen Ct.",,40.3362996,-75.995551,,,0,,0
+579,579,"Wellington Blvd. and Redwood Ave.",,40.3362551,-75.9942182,,,0,,0
+580,580,"Broadcasting Rd. and Wellington Blvd.",,40.3369011,-75.9926495,,,0,,0
+581,581,"Broadcasting Rd. and Buckman Ave.",,40.3390908,-75.9919548,,,0,,0
+582,582,"Broadcasting Rd. and Cypress Ln.",,40.339871,-75.9916991,,,0,,0
+583,583,"Broadcasting Rd. and Gring Dr.",,40.3407482,-75.9914577,,,0,,0
+584,584,"Broadcasting Rd. and Andre Ct.",,40.3417191,-75.991732,,,0,,0
+585,585,"Broadcasting Rd. and State Hill Rd.",,40.3423081,-75.9915605,,,0,,0
+586,586,"Broadcasting Rd. and Westview Dr.",,40.3438604,-75.9905001,,,0,,0
+587,587,"Keiser Blvd. and Broadcasting Rd.",,40.3445971,-75.9891748,,,0,,0
+588,588,"Sleep Health Center",,40.3434013,-75.9883643,,,0,,0
+589,589,"Cabin Eye and Retina Center",,40.3423605,-75.9890382,,,0,,0
+590,590,"State Hill Rd. and Cheltenham Dr.",,40.3415045,-75.9884811,,,0,,0
+591,591,"State Hill Rd. and Wellington Blvd.",,40.3410581,-75.9849481,,,0,,0
+592,592,"State Hill Rd. and Colony Dr.",,40.3408295,-75.9835498,,,0,,0
+593,593,"State Hill Rd. and Vista Rd.",,40.3392912,-75.9787545,,,0,,0
+594,594,"State Hill Rd. and Wingert Rd.",,40.3391103,-75.9777347,,,0,,0
+595,595,"State Hill Rd. and Valley Green Cir.",,40.3387,-75.9754378,,,0,,0
+596,596,"State Hill Rd. and Woodland Rd.",,40.3382136,-75.9727764,,,0,,0
+597,597,"State Hill Rd. and Greenwood Mall",,40.3378623,-75.9707984,,,0,,0
+598,598,"Penn Ave. and Lynne Ave.",,40.3339012,-75.9628885,,,0,,0
+599,599,"Penn Ave. and S Trent Ave.",,40.3345331,-75.9612886,,,0,,0
+600,600,"Penn Ave. and Poplar Ln.",,40.3352719,-75.9578613,,,0,,0
+601,601,"Penn Ave. and Park Rd.",,40.3356358,-75.9555018,,,0,,0
+602,602,"Penn Ave. and 8th Ave.",,40.3359282,-75.9533745,,,0,,0
+603,603,"Penn Ave. and S 6th Ave.",,40.3356939,-75.9493261,,,0,,0
+604,604,"Penn Ave. and State Hill Rd.",,40.3335847,-75.9641762,,,,,
+605,605,"Wyomissing Fire Department",,40.332719,-75.9663831,,,,,
+606,606,"Penn Ave. and Lake Ave.",,40.3320003,-75.9683291,,,,,
+607,607,"Penn Ave. and Forest Ave.",,40.331379,-75.9698628,,,,,
+608,608,"Penn Ave. and N Morwood Ave.",,40.3276692,-75.9880376,,,,,
+609,609,"Benjamin Franklin Hwy. and Perkasie Ave.",,40.3275206,-75.9899249,,,,,
+610,610,"Benjamin Franklin Hwy. and Telford Ave.",,40.3273489,-75.9920635,,,,,
+611,611,"Benjamin Franklin Hwy. and Woodside Ave.",,40.3271443,-75.9943638,,,,,
+612,612,"Benjamin Franklin Hwy. and Court Blvd.",,40.3258254,-76.0055393,,,,,
+613,613,"Benjamin Franklin Hwy. and Stevens Ave.",,40.3257077,-76.0082859,,,,,
+614,614,"Benjamin Franklin Hwy. and Blanbird Dr.",,40.3255515,-76.0122601,,,,,
+615,615,"Benjamin Franklin Hwy. and Mull Ave.",,40.3255683,-76.0176042,,,,,
+616,616,"Benjamin Franklin Hwy. and Cacoosing Ave.",,40.3254395,-76.0213827,,,,,
+617,617,"Benjamin Franklin Hwy. and N Hull St.",,40.3252132,-76.0247264,,,,,
+618,618,"Benjamin Franklin Hwy. and Summit Blvd.",,40.3256972,-76.0276681,,,,,
+619,619,"Benjamin Franklin Hwy. and Wynnewood Rd.",,40.326202,-76.0311739,,,,,
+620,620,"Sheetz",,40.3267538,-76.0401287,,,,,
+621,621,"Benjamin Franklin Hwy. and Gaul Rd.",,40.3268161,-76.0429641,,,,,
+622,622,"Tractor Supply Co. (Sinking Spring Plaza)",,40.3258817,-76.0463025,,,,,
+623,623,"Fecera's Furniture (Sinking Spring Plaza)",,40.3256477,-76.0449449,,,,,
+624,624,"Benjamin Franklin Hwy. and N Church Rd.",,40.3287576,-76.0740809,,,,,
+625,625,"Benjamin Franklin Hwy. and Bucks St.",,40.3290586,-76.0759272,,,,,
+626,626,"Family Dollar",,40.329684,-76.0800407,,,,,
+627,627,"Benjamin Franklin Hwy. and N Walnut St.",,40.3300304,-76.0820306,,,,,
+628,628,"Benjamin Franklin Hwy. and N Elm St.",,40.3305466,-76.0842582,,,,,
+629,629,"Benjamin Franklin Hwy. and Laurel St.",,40.3310431,-76.0861321,,,,,
+630,630,"Benjamin Franklin Hwy. and Pine St.",,40.3315801,-76.0881061,,,,,
+631,631,"Benjamin Franklin Hwy. and N Pearl St.",,40.3322214,-76.0901634,,,,,
+632,632,"Benjamin Franklin Hwy. and Mountain Blvd.",,40.332947,-76.0924995,,,,,
+633,633,"Benjamin Franklin Hwy. and Point Rd.",,40.3339838,-76.0959711,,,,,
+634,634,"Sportsman Rd. and Spur Rd.",,40.3362101,-76.1051059,,,,,
+635,635,"Main St. and Sportsman Rd.",,40.3309461,-76.1086126,,,,,
+636,636,"Main St. and Cottage Ln.",,40.32994,-76.1070508,,,,,
+637,637,"Wernersville State Hospital",,40.3289643,-76.10544,,,,,
+638,638,"Sportsman Rd. and Hospital Rd.",,40.3285982,-76.1099928,,,,,
+639,639,"Sportsman Rd. and Cottage Ln.",,40.3296797,-76.1096489,,,,,
+640,640,"Sportsman Rd. and Main St.",,40.3314136,-76.1086301,,,,,
+641,641,"Sportsman Rd. and Spur Rd.",,40.3361887,-76.1049524,,,,,
+642,642,"Benjamin Franklin Hwy. and Point Rd.",,40.3338444,-76.0962051,,,,,
+643,643,"Penn Ave. and S Pearl St.",,40.3318926,-76.0896112,,,,,
+644,644,"Benjamin Franklin Hwy. and Furnace Rd.",,40.3312573,-76.0876086,,,,,
+645,645,"Benjamin Franklin Hwy. and Laurel St.",,40.3307853,-76.0856976,,,,,
+646,646,"Benjamin Franklin Hwy. and S Elm St.",,40.3302572,-76.0836671,,,,,
+647,647,"Benjamin Franklin Hwy. and Hill Rd.",,40.3299492,-76.0823066,,,,,
+648,648,"Benjamin Franklin Hwy. and W Holland St.",,40.32974,-76.0813546,,,,,
+649,649,"Wernersville Station",,40.3294261,-76.0793524,,,,,
+650,650,"Benjamin Franklin Hwy. and Werner St.",,40.3292038,-76.0778024,,,,,
+651,651,"Benjamin Franklin Hwy. and S Church Rd.",,40.3284418,-76.0730476,,,,,
+652,652,"Benjamin Franklin Hwy. and Park Ave.",,40.3263015,-76.0343657,,,,,
+653,653,"Benjamin Franklin Hwy. and Wynnewood Ave.",,40.3259734,-76.0306329,,,,,
+654,654,"Benjamin Franklin Hwy. and Evans Ave.",,40.3255194,-76.0275074,,,,,
+655,655,"Benjamin Franklin Hwy. and S Hull St.",,40.3249464,-76.0238237,,,,,
+656,656,"Benjamin Franklin Hwy. and Columbia Ave.",,40.3253666,-76.0203975,,,,,
+657,657,"Rita's",,40.3253463,-76.0153205,,,,,
+658,658,"Benjamin Franklin Hwy. and Queen St.",,40.3254379,-76.0114666,,,,,
+659,659,"Benjamin Franklin Hwy. and S Dwight St.",,40.3258057,-76.0035212,,,,,
+660,660,"Benjamin Franklin Hwy. and W Wyomissing Blvd.",,40.3270665,-75.9937683,,,,,
+661,661,"Benjamin Franklin Hwy. and Telford Ave.",,40.327251,-75.9914683,,,,,
+662,662,"Benjamin Franklin Hwy. and Perkasie Ave.",,40.3274239,-75.9891459,,,,,
+663,663,"Penn Ave. and Clayton Ave.",,40.3291977,-75.9759851,,,,,
+664,664,"Penn Ave. and Wyoming Ave.",,40.3308855,-75.9707573,,,,,
+665,665,"Penn Ave. and Forest Ave.",,40.3315619,-75.9689529,,,,,
+666,666,"Penn Ave. and Lake Ave.",,40.3322176,-75.9672475,,,,,
+667,667,"Penn Ave. and Berks Pl",,40.3329497,-75.9653847,,,,,
+668,668,"Penn St. Bus Shelter 5",,40.3354361,-75.9284228,,,,,
+669,669,"Boscov's (Berkshire Mall)",,40.3392107,-75.9713414,,,,,
+670,670,"Wellington Blvd. and Abington Dr.",,40.3402543,-75.9861641,,,,,
+671,671,"Wellington Blvd. and Warwick Dr.",,40.3393893,-75.9862333,,,,,
+672,672,"Wellington Blvd. and Devonshire Dr.",,40.3364917,-75.9884919,,,,,
+673,673,"Wellington Blvd. and Cheltenham Dr.",,40.3363742,-75.9910723,,,,,
+674,674,"Wellington Blvd. and Broadcasting Rd.",,40.3364087,-75.9932693,,,,,
+675,675,"Wellington Blvd. and Evergreen Dr.",,40.3364459,-75.9963926,,,,,
+676,676,"Snyder Rd. and Laurel Rd.",,40.335602,-75.9968973,,,,,
+677,677,"Snyder Rd. and Lindale Dr.",,40.333966,-75.9952442,,,,,
+678,678,"Grandview Blvd. and Wyomissing Hills Blvd.",,40.3335901,-75.9935525,,,,,
+679,679,"Grandview Blvd. and Merrymount Rd.",,40.3320607,-75.9836596,,,,,
+680,680,"Woodland Rd. and Overhill Rd.",,40.3323801,-75.9813922,,,,,
+681,681,"Woodland Rd. and Edgedale Ct.",,40.3331749,-75.978663,,,,,
+682,682,"Woodland Rd. and Lawndale Rd.",,40.3355746,-75.9760795,,,,,
+683,683,"Penn St. Bus Shelter 8",,40.3352132,-75.9283883,,,,,
+684,684,"Park Rd. and Hill Ave.",,40.3369924,-75.9561496,,,,,
+685,685,"Park Rd. and Knitting Mls Wy.",,40.3378456,-75.9565784,,,,,
+686,686,"Park Rd. and Greenwich St.",,40.3422761,-75.9574766,,,,,
+687,687,"Park Rd. and Oley St.",,40.3431925,-75.9575489,,,,,
+688,688,"Fazio's",,40.3443772,-75.9576434,,,,,
+689,689,"Park Rd. and Douglass St.",,40.3451555,-75.9577103,,,,,
+690,690,"Spring St. and Park Rd.",,40.3474517,-75.9598143,,,,,
+691,691,"Crossing Dr. and Woodland Rd.",,40.3473296,-75.9662032,,,,,
+692,692,"Home Depot",,40.3475931,-75.9679854,,,,,
+693,693,"Berkshire Blvd. and Crossing Dr.",,40.3486128,-75.9703003,,,,,
+694,694,"Franco Building (Penn State Berks)",,40.3590448,-75.9757164,,,,,
+695,695,"Coastal Grille (Broadcasting Square)",,40.3557583,-75.9800949,,,,,
+696,696,"MOD Pizza (Broadcasting Square)",,40.3566832,-75.980424,,,,,
+697,697,"Barnes & Noble (Broadcasting Square)",,40.3574507,-75.9796462,,,,,
+698,698,"Ulta Beauty",,40.357841,-75.9803291,,,,,
+699,699,"Weis Markets (Broadcasting Square)",,40.3581402,-75.9809342,,,,,
+700,700,"Michaels",,40.3587785,-75.982145,,,,,
+701,701,"DICK'S Sporting Goods",,40.3591251,-75.9828001,,,,,
+702,702,"Target (Broadcasting Square)",,40.3596013,-75.9836937,,,,,
+703,703,"macy's",,40.3600521,-75.9843858,,,,,
+704,704,"Crumbl (Broadcasting Square)",,40.3603378,-75.9848357,,,,,
+705,705,"Sherwin-Williams Paints",,40.360573,-75.9852824,,,,,
+706,706,"Paper Mill Rd. and Century Blvd.",,40.3582475,-75.9854615,,,,,
+707,707,"Paper Mill Rd. and Meridian Blvd.",,40.3559367,-75.9835178,,,,,
+708,708,"La-Z-Boy",,40.3517834,-75.9787247,,,,,
+709,709,"Paper Mill Rd. and Cromwell Dr.",,40.3503797,-75.9765516,,,,,
+710,710,"Olive Garden Italian Restaurant",,40.347343,-75.9669552,,,,,
+711,711,"Spring St. and Crossing Dr.",,40.3456691,-75.962484,,,,,
+712,712,"Park Rd. and Spring St.",,40.3473752,-75.9591103,,,,,
+713,713,"Park Rd. and Douglass St.",,40.3448126,-75.9578748,,,,,
+714,714,"7-Eleven",,40.3436591,-75.9577807,,,,,
+715,715,"Park Rd. and Oley St.",,40.3427697,-75.9577101,,,,,
+716,716,"Park Rd. and Greenwich St.",,40.3419125,-75.957618,,,,,
+717,717,"Park Rd. and Van Reed Rd.",,40.3410048,-75.9574393,,,,,
+718,718,"Park Rd. and Hill Ave.",,40.3363836,-75.9561799,,,,,
+719,719,"Washington St. and N 6th St.",,40.3370052,-75.926299,,,,,
+720,720,"Washington St. and N 5th St.",,40.3370374,-75.9280997,,,,,
+721,721,"Washington St. and N 4th St.",,40.3370555,-75.9301257,,,,,
+722,722,"Washington St. and N 3rd St.",,40.3370793,-75.9320155,,,,,
+723,723,"Washington St. and N 3rd St.",,40.3371264,-75.9343805,,,,,
+724,724,"N Front St. and Washington St.",,40.3374648,-75.9355471,,,,,
+725,725,"N Front St. and Walnut St.",,40.3387823,-75.9355112,,,,,
+726,726,"N Front St. and Elm St.",,40.3403706,-75.9354654,,,,,
+727,727,"N Front St. and Buttonwood St.",,40.3419611,-75.9354205,,,,,
+728,728,"Hope Ev. Lutheran Church",,40.3448714,-75.9353373,,,,,
+729,729,"N Front St. and Oley St.",,40.3463693,-75.9353025,,,,,
+730,730,"N Front St. and Douglass St.",,40.3478078,-75.9352615,,,,,
+731,731,"W Windsor St. and N Front St.",,40.3491421,-75.9355954,,,,,
+732,732,"W Windsor St. and McKnight St.",,40.3491599,-75.9367352,,,,,
+733,733,"W Windsor St. and Weiser St.",,40.3491804,-75.9380428,,,,,
+734,734,"W Windsor St. and Ritter St.",,40.3492005,-75.938942,,,,,
+735,735,"W Windsor St. and Eckert St.",,40.349218,-75.9404267,,,,,
+736,736,"Schuylkill Ave. and W Windsor St.",,40.3494348,-75.942458,,,,,
+737,737,"Schuykill Ave. and Cartech Rd.",,40.3520316,-75.9450784,,,,,
+738,738,"Schuylkill Ave. and Lehigh St.",,40.3549661,-75.9477469,,,,,
+739,739,"Ave. A and Schuylkill Ave.",,40.3555585,-75.9478891,,,,,
+740,740,"Ave A. and Ave C.",,40.3562719,-75.9465493,,,,,
+741,741,"Ave. B and Avenue D.",,40.3551804,-75.9451118,,,,,
+742,742,"Ave B. and Ave C.",,40.3546964,-75.9460349,,,,,
+743,743,"Schuylkill Ave. and Ave A.",,40.3557001,-75.9484128,,,,,
+744,744,"Lackawanna St. and Schuylkill Ave.",,40.3572866,-75.9503523,,,,,
+745,745,"Lackawanna St. and Luzerne St.",,40.3567692,-75.9513173,,,,,
+746,746,"Lackawanna St. and Carbon St.",,40.3557001,-75.9533121,,,,,
+747,747,"Lackawanna St. and Allegheny Ave.",,40.3553215,-75.9540196,,,,,
+748,748,"Jamestown Village",,40.3547132,-75.9545041,,,,,
+749,749,"Jamestown Village",,40.3543817,-75.9553786,,,,,
+750,750,"Lackawanna St. and Clarion St.",,40.3550143,-75.9543718,,,,,
+751,751,"Lackawanna St. and Allegheny Ave.",,40.3555187,-75.9534064,,,,,
+752,752,"Lackawanna St. and Carbon St.",,40.3561091,-75.952279,,,,,
+753,753,"Schuylkill Ave. and Lackawanna St.",,40.357618,-75.9501452,,,,,
+754,754,"Bernville Rd. and Martin Ave.",,40.3678382,-75.9582643,,,,,
+755,755,"Bernville Rd. and Curtis Ave.",,40.3684358,-75.9589367,,,,,
+756,756,"Bernville Rd. and Aviation Rd.",,40.3694926,-75.9601784,,,,,
+757,757,"Reading Aviation",,40.3727541,-75.9639432,,,,,
+758,758,"Reading Regional Airport",,40.3742174,-75.964407,,,,,
+759,759,"Budget Truck Rental",,40.3736829,-75.965067,,,,,
+760,760,"Holiday Inn Express & Suites",,40.3730599,-75.9656192,,,,,
+761,761,"St. Joseph Medical Office Building (PennState Health St. Joseph Medical Center)",,40.3763413,-75.9776257,,,,,
+762,762,"Bernville Rd. and Wellness Wy.",,40.3747833,-75.9719282,,,,,
+763,763,"Bernville Rd. and Wellness Wy.",,40.3739144,-75.9699796,,,,,
+764,764,"Bernville Rd. and Aviation Rd.",,40.3689653,-75.9597986,,,,,
+765,765,"Bernville Rd. and Greyrock Rd.",,40.3681635,-75.9589187,,,,,
+766,766,"Bernville Rd. and Morrison Rd.",,40.3661066,-75.9566263,,,,,
+767,767,"Bernville Rd. and Oak Grove Rd.",,40.3641822,-75.9547578,,,,,
+768,768,"Bernville Rd. and N Tulpehocken Rd.",,40.3631143,-75.9540768,,,,,
+769,769,"Schuylkill Ave. and Mercer St.",,40.3585552,-75.9512286,,,,,
+771,771,"Schuylkill Ave. and Columbia St.",,40.3532429,-75.9464089,,,,,
+772,772,"W Windsor St. and Schuylkill Ave.",,40.3491398,-75.9420074,,,,,
+773,773,"W Windsor St. and Lincoln St.",,40.3491005,-75.9395116,,,,,
+774,774,"W Windsor St. and Weiser St.",,40.3490637,-75.9373561,,,,,
+775,775,"W Windsor St. and McKnight St.",,40.3490488,-75.9361473,,,,,
+776,776,"Windsor St. and N 2nd St.",,40.3489921,-75.933017,,,,,
+777,777,"Windsor St. and Thorn St.",,40.3489784,-75.9320478,,,,,
+778,778,"Centre Ave. and Windsor St.",,40.3487757,-75.9316968,,,,,
+779,779,"Centre Ave. and N 3rd St.",,40.3478329,-75.9311509,,,,,
+780,780,"Centre Ave. and Douglass St.",,40.3472573,-75.9308148,,,,,
+781,781,"Court St. and Madison Ave.",,40.3362198,-75.9289358,,,,,
+782,782,"Schuylkill Ave. and W Windsor St.",,40.3489333,-75.942382,,,,,
+783,783,"Schuylkill Ave. and W Douglass St.",,40.3478565,-75.9417678,,,,,
+784,784,"Schuylkill Ave. and W Oley St.",,40.3458259,-75.9406131,,,,,
+785,785,"Schuylkill Ave. and W Greenwich St.",,40.344463,-75.939841,,,,,
+786,786,"Schuylkill Ave. and W Green St.",,40.3427223,-75.9388482,,,,,
+787,787,"Schuylkill Ave. and W Buttonwood St.",,40.3408415,-75.9377957,,,,,
+788,788,"Schuylkill Ave. and W Elm St.",,40.3393455,-75.9369364,,,,,
+789,789,"Walnut Street. and River Oak Dr.",,40.3386652,-75.9364943,,,,,
+790,790,"N Front St. and Walnut St.",,40.3382152,-75.9356636,,,,,
+791,791,"N Front St. and Fischer Ln.",,40.3376307,-75.9356757,,,,,
+792,792,"Washington St. and N Front St.",,40.3369529,-75.9351477,,,,,
+793,793,"N 2nd St. and Washington St.",,40.3364531,-75.9338678,,,,,
+794,794,"Court St. and N 2nd St.",,40.3362586,-75.9331318,,,,,
+795,795,"Court St. and N 3rd St.",,40.3362134,-75.9312506,,,,,
+796,796,"Windsor St. and N 6th St.",,40.3489779,-75.9257727,,,,,
+797,797,"Windsor St. and N 5th St.",,40.3490187,-75.9278412,,,,,
+798,798,"Windsor St. and N 4th St.",,40.3490562,-75.9299564,,,,,
+799,799,"Centre Ave. and Windsor St.",,40.3492471,-75.9317722,,,,,
+800,800,"Centre Ave. and Spring St.",,40.3508861,-75.9326888,,,,,
+801,801,"Centre Ave. and Robeson St.",,40.3523219,-75.9333573,,,,,
+802,802,"Centre Ave. and Pike St.",,40.3566986,-75.9337879,,,,,
+803,803,"Centre Ave. and Amity St.",,40.3581773,-75.9334794,,,,,
+804,804,"Centre Ave. and Union St.",,40.3596487,-75.9331758,,,,,
+805,805,"Centre Ave. and Exeter St.",,40.3611256,-75.9328681,,,,,
+806,806,"Bern St. and Centre Ave.",,40.3623313,-75.932193,,,,,
+807,807,"Bern St. and N 3rd St.",,40.3623027,-75.9305996,,,,,
+808,808,"Bern St. and N 4th St.",,40.3622614,-75.9282289,,,,,
+809,809,"Reading Public Library",,40.3333863,-75.9280304,,,,,
+810,810,"S 5th St. and Chestnut St.",,40.331971,-75.9280807,,,,,
+811,811,"S 5th St. and Spruce St.",,40.3304526,-75.9281221,,,,,
+812,812,"S 5th St. and Pine St.",,40.3289976,-75.9281857,,,,,
+813,813,"Laurel St. and S 6th St.",,40.327554,-75.9258487,,,,,
+814,814,"DS Smith",,40.3275241,-75.9237822,,,,,
+815,815,"S 9th St. and Laurel St.",,40.3277885,-75.9202754,,,,,
+816,816,"Cotton St. and S 9th St.",,40.3286345,-75.9199195,,,,,
+817,817,"Cotton St. and S 10th St.",,40.3286141,-75.9180623,,,,,
+818,818,"Cotton St. and Maple St.",,40.3286058,-75.9171646,,,,,
+819,819,"Cotton St. and S 11th St.",,40.3285832,-75.9161169,,,,,
+820,820,"Cotton St. and Wunder St.",,40.3285742,-75.9149917,,,,,
+821,821,"Cotton St. and S 12th St.",,40.3285601,-75.9141754,,,,,
+822,822,"Cotton St. and Chapel Terrace",,40.3285443,-75.9132216,,,,,
+823,823,"Cotton St. and S 14th St.",,40.3284866,-75.9105412,,,,,
+824,824,"Cotton St. and S 15th St.",,40.3283496,-75.9083254,,,,,
+825,825,"Cotton St. and S 17th St.",,40.3281035,-75.9042001,,,,,
+826,826,"S 18th St. and Cotton St.",,40.3282921,-75.9024086,,,,,
+827,827,"S 19th St. and Perkiomen Ave.",,40.3282507,-75.9006039,,,,,
+828,828,"Cotton St. and S 19th St.",,40.3280053,-75.9009206,,,,,
+829,829,"Cotton St. and S 18th St.",,40.328113,-75.9027318,,,,,
+830,830,"Cotton St. and S 17th St.",,40.3282422,-75.9049021,,,,,
+831,831,"Cotton St. and S 16th St.",,40.3283543,-75.9067597,,,,,
+832,832,"Cotton St. and S 15th St.",,40.3284826,-75.9089019,,,,,
+833,833,"Cotton St. and S 14th St.",,40.3286052,-75.9110753,,,,,
+834,834,"Cotton St. and S 13th St.",,40.328629,-75.9127872,,,,,
+835,835,"Cotton St. and Chapel Terrace",,40.3286481,-75.913752,,,,,
+836,836,"Cotton St. and S 12th St.",,40.3286594,-75.9147891,,,,,
+837,837,"Cotton St. and Wunder St.",,40.3286743,-75.9156984,,,,,
+838,838,"Santa Rita Grocery",,40.3286897,-75.9166912,,,,,
+839,839,"Cotton St. and Maple St.",,40.3287036,-75.9176852,,,,,
+840,840,"Cotton St. and S 10th St.",,40.3287203,-75.9186669,,,,,
+841,841,"S 9th St. and Cotton St.",,40.328447,-75.9203809,,,,,
+842,842,"Laurel St. and S 9th St.",,40.3275799,-75.9206934,,,,,
+843,843,"Laurel St. and S 7th St.",,40.3276501,-75.9244605,,,,,
+844,844,"Laurel St. and S 6th St.",,40.327674,-75.9264634,,,,,
+845,845,"S Fourth St. and Hawk Ridge Dr.",,40.5440306,-75.9783798,,,,,
+846,846,"S Fourth St. and Maple St.",,40.5467865,-75.9791496,,,,,
+847,847,"S Fourth St. and Arch St.",,40.5481188,-75.97965,,,,,
+848,848,"S Fourth St. and Windsor St.",,40.5497729,-75.9802493,,,,,
+849,849,"S Fourth St. and Pine St.",,40.553642,-75.9817004,,,,,
+850,850,"State St. and N 4th St.",,40.5552558,-75.9828453,,,,,
+851,851,"State St. and N 3rd St.",,40.5549653,-75.984219,,,,,
+852,852,"State St. and N 2nd St.",,40.5545394,-75.9868537,,,,,
+853,853,"Industrial Dr. and State St.",,40.5541007,-75.9915537,,,,,
+854,854,"Industrial Dr. and Swamp Rd.",,40.5549777,-75.9915692,,,,,
+855,855,"Camping World",,40.5599235,-75.9965328,,,,,
+856,856,"Lowland Rd. and PA-61",,40.5649296,-76.0082046,,,,,
+857,857,"Walmart Hamburg Supercenter #4612 (Tilden Ridge Shopping Center)",,40.5634665,-76.0122139,,,,,
+858,858,"Tilden Ridge Dr. and Wilderness Trail",,40.5614403,-76.0093433,,,,,
+859,859,"RedRobin Gourmet Burgers and Brews (Tilden Ridge Shopping Center)",,40.5609458,-76.0058275,,,,,
+860,860,"Russel Stover Candies",,40.5621113,-76.0053206,,,,,
+861,861,"Jetson Dr. and Dave's Wy.",,40.5631757,-76.0037387,,,,,
+862,862,"Industrial Dr. and Jetson Dr.",,40.5635242,-76.0027438,,,,,
+863,863,"Industrial Dr. and Lowland Rd.",,40.5615223,-76.0004662,,,,,
+864,864,"Cracker Barrel Old Country Store",,40.5596606,-75.9971435,,,,,
+865,865,"Industrial Dr. and Swamp Rd.",,40.5544967,-75.9916824,,,,,
+866,866,"State St. and Front St.",,40.5541628,-75.9882199,,,,,
+867,867,"State St. and S 2nd St.",,40.5549843,-75.9835688,,,,,
+868,868,"S Fourth St. and State St.",,40.555065,-75.9823903,,,,,
+869,869,"S Fourth St. and Pine St.",,40.5531857,-75.9816693,,,,,
+870,870,"S Fourth St. and Walnut St.",,40.551833,-75.9811517,,,,,
+871,871,"S Fourth St. and Grand St.",,40.5501282,-75.9805213,,,,,
+872,872,"Rita's Ice, Custard, Happiness",,40.5491423,-75.9801593,,,,,
+873,873,"S Fourth St. and Arch St.",,40.5476025,-75.9795981,,,,,
+874,874,"HAWK Petro USA",,40.5460735,-75.9790547,,,,,
+875,875,"Kutztown University",,40.5093853,-75.7829217,,,,,
+876,876,"Trexler Ave. and Baldy Rd.",,40.5105145,-75.7771357,,,,,
+877,877,"Noble St. and Trexler Ave.",,40.5128797,-75.7736202,,,,,
+878,878,"Noble St. and Keystone Ave.",,40.5134702,-75.7740187,,,,,
+879,879,"Noble St. and Normal Ave.",,40.5145041,-75.7747126,,,,,
+880,880,"W Main St. and Noble St.",,40.517366,-75.7774447,,,,,
+881,881,"W Main St. and Whiteoak St.",,40.5159424,-75.7786985,,,,,
+882,882,"W Main St. and N Baldy St.",,40.5141901,-75.7802508,,,,,
+883,883,"Kutztown Rd. and College Blvd.",,40.5120494,-75.7821323,,,,,
+884,884,"Kutztown Rd. and Schaeffer Ln.",,40.5107666,-75.783314,,,,,
+885,885,"Kutztown Rd. and S Campus Dr.",,40.5093847,-75.7846068,,,,,
+886,886,"E High St. and Manatawny St.",,40.246175,-75.6551994,,,,,
+887,887,"E High St. and S York St.",,40.2458288,-75.6524896,,,,,
+888,888,"Charles W. Dickinson Transportation Center",,40.2448438,-75.6512682,,,,,
+889,889,"E High St. and N Hanover St.",,40.2458312,-75.6507889,,,,,
+890,890,"E High St. and N York St.",,40.2461248,-75.6531019,,,,,
+891,891,"W High St. and Gable St.",,40.2487135,-75.6642881,,,,,
+892,892,"W High St. and Parry Pl.",,40.2495449,-75.6708091,,,,,
+893,893,"W High St. and Rice St.",,40.2482484,-75.6751405,,,,,
+894,894,"W High St. and Quinter St.",,40.2476577,-75.6767266,,,,,

@@ -1,1 +1,123 @@
-
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+1,WEEKDAY,1.WK.NB.01,"Temple via 5th Street",0,1,1_0,0,0
+1,WEEKDAY,1.WK.NB.02,"Temple via 5th Street",0,2,1_0,0,0
+1,WEEKDAY,1.WK.SB.01,"RMT via 5th Street",1,1,1_1,0,0
+1,WEEKDAY,1.WK.SB.02,"RMT via 5th Street",1,2,1_1,0,0
+1,SATURDAY,1.ST.NB.01,"Temple via 5th Street",0,1,1_0,0,0
+1,SATURDAY,1.ST.SB.01,"RMT via 5th Street",1,1,1_1,0,0
+1,SUNDAY,1.SN.NB.01,"Temple via 5th Street",0,1,1_0,0,0
+1,SUNDAY,1.SN.SB.01,"RMT via 5th Street",1,1,1_1,0,0
+2,WEEKDAY,2.WK.NB.01,"Laureldale via Kutztown Road",0,3,2_0,0,0
+2,WEEKDAY,2.WK.NB.02,"Laureldale via Kutztown Road",0,4,2_0,0,0
+2,WEEKDAY,2.WK.SB.01,"RMT via Kutztown Road",1,3,2_1,0,0
+2,WEEKDAY,2.WK.SB.02,"RMT via Kutztown Road",1,4,2_1,0,0
+2,SATURDAY,2.ST.NB.01,"Laureldale via Kutztown Road",0,3,2_0,0,0
+2,SATURDAY,2.ST.SB.01,"RMT via Kutztown Road",1,3,2_1,0,0
+3,WEEKDAY,3.WK.NB.01,"4th/6th Streets",0,5,3_0,0,0
+3,WEEKDAY,3.WK.SB.01,"RMT via 4th Street",1,5,3_1,0,0
+3,SATURDAY,3.ST.NB.01,"4th/6th Streets",0,5,3_0,0,0
+3,SATURDAY,3.ST.SB.01,"RMT via 4th Street",1,5,3_1,0,0
+3,SUNDAY,3.SN.NB.01,"4th/6th Streets",0,5,3_0,0,0
+3,SUNDAY,3.SN.SB.01,"RMT via 4th Street",1,5,3_1,0,0
+4,WEEKDAY,4.WK.NB.01,"Hampden Heights/Albright College",0,6,4_0,0,0
+4,WEEKDAY,4.WK.NB.02,"Hampden Heights/Albright College",0,7,4_0,0,0
+4,WEEKDAY,4.WK.SB.01,"RMT/Albright College",1,6,4_1,0,0
+4,WEEKDAY,4.WK.SB.02,"RMT/Albright College",1,7,4_1,0,0
+4,SATURDAY,4.ST.NB.01,"Hampden Heights/Albright College",0,6,4_0,0,0
+4,SATURDAY,4.ST.SB.01,"RMT/Albright College",1,7,4_1,0,0
+5,WEEKDAY,5.WK.EB.01,"Antietam Valley via Perkiomen Avenue",0,8,5_0,0,0
+5,WEEKDAY,5.WK.EB.02,"Antietam Valley via Perkiomen Avenue",0,9,5_0,0,0
+5,WEEKDAY,5.WK.WB.01,"RMT via Perkiomen Avenue",1,8,5_1,0,0
+5,WEEKDAY,5.WK.WB.02,"RMT via Perkiomen Avenue",1,9,5_1,0,0
+5,SATURDAY,5.ST.EB.01,"Antietam Valley via Perkiomen Avenue",0,8,5_0,0,0
+5,SATURDAY,5.ST.WB.01,"RMT via Perkiomen Avenue",1,8,5_1,0,0
+6,WEEKDAY,6.WK.EB.01,"Reiffton/Exeter Common's",0,10,6_0,0,0
+6,WEEKDAY,6.WK.EB.02,"Reiffton/Exeter Common's",0,11,6_0,0,0
+6,WEEKDAY,6.WK.WB.01,"RMT/Exeter Common's",1,10,6_1,0,0
+6,WEEKDAY,6.WK.WB.02,"RMT/Exeter Common's",1,11,6_1,0,0
+6,SATURDAY,6.ST.EB.01,"Reiffton/Exeter Common's",0,10,6_0,0,0
+6,SATURDAY,6.ST.WB.01,"RMT/Exeter Common's",1,10,6_1,0,0
+6,SUNDAY,6.SN.EB.01,"Reiffton/Exeter Common's",0,10,6_0,0,0
+6,SUNDAY,6.SN.WB.01,"RMT/Exeter Common's",1,10,6_1,0,0
+7,WEEKDAY,7.WK.SB.01,"Kenhorst Plaza via Millmont",0,12,7_0,0,0
+7,WEEKDAY,7.WK.NB.01,"RMT via Millmont",1,12,7_1,0,0
+7,SATURDAY,7.ST.SB.01,"Kenhorst Plaza via Millmont",0,12,7_0,0,0
+7,SATURDAY,7.ST.NB.01,"RMT via Millmont",1,12,7_1,0,0
+8,WEEKDAY,8.WK.SB.01,"Brookline",0,13,8_0,0,0
+8,WEEKDAY,8.WK.NB.01,"Brookline/RMT",1,13,8_1,0,0
+8,SATURDAY,8.ST.SB.01,"Brookline",0,13,8_0,0,0
+8,SATURDAY,8.ST.NB.01,"Brookline/RMT",1,13,8_1,0,0
+9,WEEKDAY,9.WK.SB.01,"Shillington via Lancaster Avenue",0,14,9_0,0,0
+9,WEEKDAY,9.WK.SB.02,"Shillington via Lancaster Avenue",0,15,9_0,0,0
+9,WEEKDAY,9.WK.NB.01,"RMT via Lancaster Avenue",1,14,9_1,0,0
+9,WEEKDAY,9.WK.NB.02,"RMT via Lancaster Avenue",1,15,9_1,0,0
+9,SATURDAY,9.ST.SB.01,"Shillington via Lancaster Avenue",0,14,9_0,0,0
+9,SATURDAY,9.ST.NB.01,"RMT via Lancaster Avenue",1,14,9_1,0,0
+10,WEEKDAY,10.WK.WB.01,"Wyomissing Park/Reading Hospital",0,16,10_0,0,0
+10,WEEKDAY,10.WK.WB.02,"Wyomissing Park/Reading Hospital",0,17,10_0,0,0
+10,WEEKDAY,10.WK.EB.01,"Wyomissing Park/RMT",1,16,10_1,0,0
+10,WEEKDAY,10.WK.EB.02,"Wyomissing Park/RMT",1,17,10_1,0,0
+10,SATURDAY,10.ST.WB.01,"Wyomissing Park/Reading Hospital",0,16,10_0,0,0
+10,SATURDAY,10.ST.EB.01,"Wyomissing Park/RMT",1,16,10_1,0,0
+10,SUNDAY,10.SN.WB.01,"Wyomissing Park/Reading Hospital",0,16,10_0,0,0
+10,SUNDAY,10.SN.EB.01,"Wyomissing Park/RMT",1,16,10_1,0,0
+11,WEEKDAY,11.WK.WB.01,"Spring Township/State Hill Road",0,18,11_0,0,0
+11,WEEKDAY,11.WK.WB.02,"Spring Township/State Hill Road",0,19,11_0,0,0
+11,WEEKDAY,11.WK.EB.01,"Spring Township/RMT",1,18,11_1,0,0
+11,WEEKDAY,11.WK.EB.02,"Spring Township/RMT",1,19,11_1,0,0
+11,SATURDAY,11.ST.WB.01,"Spring Township/State Hill Road",0,18,11_0,0,0
+11,SATURDAY,11.ST.EB.01,"Spring Township/RMT",1,18,11_1,0,0
+12,WEEKDAY,12.WK.WB.01,"Wernersville State Hospital",0,20,12_0,0,0
+12,WEEKDAY,12.WK.WB.02,"Wernersville State Hospital",0,21,12_0,0,0
+12,WEEKDAY,12.WK.WB.03,"Wernersville State Hospital",0,22,12_0,0,0
+12,WEEKDAY,12.WK.EB.01,"Wernersville State Hospital/RMT",1,20,12_1,0,0
+12,WEEKDAY,12.WK.EB.02,"Wernersville State Hospital/RMT",1,21,12_1,0,0
+12,WEEKDAY,12.WK.EB.03,"Wernersville State Hospital/RMT",1,22,12_1,0,0
+13,WEEKDAY,13.WK.WB.01,"Wyomissing Hills/Berkshire Mall",0,23,13_0,0,0
+13,WEEKDAY,13.WK.WB.02,"Wyomissing Hills/Berkshire Mall",0,24,13_0,0,0
+13,WEEKDAY,13.WK.EB.01,"Wyomissing Hills/RMT",1,23,13_1,0,0
+13,WEEKDAY,13.WK.EB.02,"Wyomissing Hills/RMT",1,24,13_1,0,0
+13,SATURDAY,13.ST.WB.01,"Wyomissing Hills/Berkshire Mall",0,23,13_0,0,0
+13,SATURDAY,13.ST.EB.01,"Wyomissing Hills/RMT",1,23,13_1,0,0
+13,SUNDAY,13.SN.WB.01,"Wyomissing Hills/Berkshire Mall",0,23,13_0,0,0
+13,SUNDAY,13.SN.EB.01,"Wyomissing Hills/RMT",1,23,13_1,0,0
+14,WEEKDAY,14.WK.WB.01,"Broadcasting Square via North Park Road",0,25,14_0,0,0
+14,WEEKDAY,14.WK.WB.02,"Broadcasting Square via North Park Road",0,26,14_0,0,0
+14,WEEKDAY,14.WK.EB.01,"RMT via North Park Road",1,25,14_1,0,0
+14,WEEKDAY,14.WK.EB.02,"RMT via North Park Road",1,26,14_1,0,0
+14,SATURDAY,14.ST.WB.01,"Broadcasting Square via North Park Road",0,25,14_0,0,0
+14,SATURDAY,14.ST.EB.01,"RMT via North Park Road",1,25,14_1,0,0
+14,SUNDAY,14.SN.WB.01,"Broadcasting Square via North Park Road",0,25,14_0,0,0
+14,SUNDAY,14.SN.EB.01,"RMT via North Park Road",1,25,14_1,0,0
+15,WEEKDAY,15.WK.WB.01,"Reading Regional Airport/St. Joseph Medical Center",0,27,15_0,0,0
+15,WEEKDAY,15.WK.WB.02,"Reading Regional Airport/St. Joseph Medical Center",0,28,15_0,0,0
+15,WEEKDAY,15.WK.EB.01,"Reading Regional Airport/RMT",1,27,15_1,0,0
+15,WEEKDAY,15.WK.EB.02,"Reading Regional Airport/RMT",1,28,15_1,0,0
+15,SATURDAY,15.ST.WB.01,"Reading Regional Airport/St. Joseph Medical Center",0,27,15_0,0,0
+15,SATURDAY,15.ST.EB.01,"Reading Regional Airport/RMT",1,27,15_1,0,0
+15,SUNDAY,15.SN.WB.01,"Reading Regional Airport/St. Joseph Medical Center",0,27,15_0,0,0
+15,SUNDAY,15.SN.EB.01,"Reading Regional Airport/RMT",1,27,15_1,0,0
+16,WEEKDAY,16.WK.WB.01,"Schuylkill Avenue",0,29,16_0,0,0
+16,WEEKDAY,16.WK.EB.01,"Schuylkill Avenue/RMT",1,29,16_1,0,0
+16,SATURDAY,16.ST.WB.01,"Schuylkill Avenue",0,29,16_0,0,0
+16,SATURDAY,16.ST.EB.01,"Schuylkill Avenue/RMT",1,29,16_1,0,0
+17,WEEKDAY,17.WK.NB.01,"Riverside/Cotton Street",0,30,17_0,0,0
+17,WEEKDAY,17.WK.NB.02,"Riverside/Cotton Street",0,31,17_0,0,0
+17,WEEKDAY,17.WK.SB.01,"Riverside/Cotton Street",1,30,17_1,0,0
+17,WEEKDAY,17.WK.SB.02,"Riverside/Cotton Street",1,31,17_1,0,0
+17,SATURDAY,17.ST.NB.01,"Riverside/Cotton Street",0,30,17_0,0,0
+17,SATURDAY,17.ST.SB.01,"Riverside/Cotton Street",1,30,17_1,0,0
+17,SUNDAY,17.SN.NB.01,"Riverside/Cotton Street",0,30,17_0,0,0
+17,SUNDAY,17.SN.SB.01,"Riverside/Cotton Street",1,30,17_1,0,0
+18,WEEKDAY,18.WK.NB.01,"Hamburg Express",0,32,18_0,0,0
+18,WEEKDAY,18.WK.NB.02,"Hamburg Express",0,32,18_0,0,0
+18,WEEKDAY,18.WK.SB.01,"Hamburg Express/RMT",1,32,18_1,0,0
+18,WEEKDAY,18.WK.SB.02,"Hamburg Express/RMT",1,32,18_1,0,0
+19,WEEKDAY,19.WK.NB.01,"Kutztown Express",0,33,19_0,0,0
+19,WEEKDAY,19.WK.NB.02,"Kutztown Express",0,33,19_0,0,0
+19,WEEKDAY,19.WK.SB.01,"Kutztown Express/RMT",1,33,19_1,0,0
+19,WEEKDAY,19.WK.SB.02,"Kutztown Express/RMT",1,33,19_1,0,0
+20,WEEKDAY,20.WK.EB.01,"Pottstown Express",0,34,20_0,0,0
+20,WEEKDAY,20.WK.EB.02,"Pottstown Express",0,34,20_0,0,0
+20,WEEKDAY,20.WK.WB.01,"Pottstown Express/RMT",1,34,20_1,0,0
+20,WEEKDAY,20.WK.WB.02,"Pottstown Express/RMT",1,34,20_1,0,0
