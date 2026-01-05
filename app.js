@@ -45,35 +45,9 @@ Papa.parse("data/routes.txt", {
 });
 
 function loadDepartures(stopId) {
-  fetch("https://legendary-spork-j6q75wqrj9gfq7jw-8080.app.github.dev/gtfs-rt/trip-updates")
-    .then(res => res.arrayBuffer())
-    .then(buffer => {
-      const feed = transit_realtime.FeedMessage.decode(
-        new Uint8Array(buffer)
-      );
-
-      let html = "<b>Upcoming departure</b><ul>";
-
-      feed.entity.forEach(etity => {
-        if (!entity.tripUpdate) return;
-
-        entity.tripUpdate.stopTimeUpdateforEach(stu => {
-          if (stu.stopId === stopId && stu.departure) {
-            const time = new Date(stu.departure.time * 1000);
-            html += `<li>${lime.toLocaleTimeString()}</li>`;
-          }
-        });
-      });
-
-      html += "</ul>";
-
-      document.querySelector(".leaflet-popup-content").innerHTML = html;
-    })
-  .catch(() => {
-    document.querySelector(".leaflet-popup-content").innerHTML =
-      "Unable to load departures.";
-  });
-  )
+  document.querySelector('.leaflet-popup-content").innerHTML =
+    `<b>${stopId}</b><br>Realtime departures coming soon`;
+}
 
 function loadAlerts() {
   fetch("https://legendary-spork-j6q75wqrj9gfq7jw-8080.app.github.dev/gtfs-rt/service-alerts")
