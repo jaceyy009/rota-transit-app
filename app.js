@@ -52,3 +52,13 @@ function loadDepartures(stopId) {
         alert("Departures will show here for stop " + stopId);
   });
 }
+
+function loadAlerts() {
+  fetch("https://legendary-spork-j6q75wqrj9gfq7jw-8080.app.github.dev/gtfs-rt/service-alerts")
+  .then(res => res.arrayBuffer())
+  .then(() => {
+    document.getElementById("alertList").innerHTML = "<li>No active alerts</li>";
+  });
+}
+
+loadAlerts();
