@@ -20,3 +20,25 @@ Papa.parse("data/stops.txt", {
     });
   }
 });
+
+// Load routes into selector
+Papa.parse("data/routes.txt", {
+  download: true,
+  header: true,
+  complete: function (results) {
+    const select = document.getElementById("routeSelect");
+
+    results.data.forEach(route => {
+      if (!route.route_id) return;
+
+      const option = document.createElement("option");
+      option.value = route.route_id;
+      option.textContent = 
+        route.route_short_name
+          ? `${route.route_short_name} - ${route.route_long_name}`
+          : route.route_long_name;
+
+      select.appendChild(option);
+    });
+  }
+});
