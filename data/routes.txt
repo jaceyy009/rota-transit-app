@@ -1,1 +1,21 @@
-
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order
+1,ROTA,"1","Temple via 5th St.","ROTA Main Terminal to North Reading Plaza via Fifth Street Highway.",3,,A52714,FFFFFF,1
+2,ROTA,"2","Laureldale Kutztown Rd.","ROTA Main Terminal to Laureldale via Kutztown Road.",3,,0288D1,FFFFFF,2
+3,ROTA,"3","4th/6th Streets","ROTA Main Terminal to Fourth Street via George Field and Sixth Street.",3,,FFEA00,000000,3
+4,ROTA,"4","Hampden Heights/Albright College","ROTA Main Terminal to Albright College via Hampden Heights and North 13th Street.",3,,F57C00,FFFFFF,4
+5,ROTA,"5","Antietam Valley via Perkiomen Avenue","ROTA Main Terminal to Antietam Valley via Butter Lane and Perkiomen Avenue.",3,,0F9D58,FFFFFF,5
+6,ROTA,"6","Reiffton/Exeter Common's","ROTA Main Terminal to Exeter Common's via Reading Mall and Perkiomen Avenue.",3,,673AB7,FFFFFF,6
+7,ROTA,"7","Kenhorst Plaza via Millmont","ROTA Main Terminal to Kenhorst Plaza via New Holland Road and Millmont.",3,,FF5252,FFFFFF,7
+8,ROTA,"8","Brookline","ROTA Main Terminal to Oakbrook Homes via Lancaster Avenue.",3,,F9A825,FFFFFF,8
+9,ROTA,"9","Shillington via Lancaster Avenue","ROTA Main Terminal to Shillington via Liggett Avenue and Lancaster Avenue.",3,,C5E1A5,000000,9
+10,ROTA,"10","Wyomissing Park/Reading Hospital","ROTA Main Terminal to Wyomissing Park via Reading Hospital.",3,,0097A7,FFFFFF,10
+11,ROTA,"11","Spring Township/State Hill Road","ROTA Main Terminal to GIANT via Spring Township and State Hill Road.",3,,3949AB,FFFFFF,11
+12,ROTA,"12","Wernersville State Hospital","ROTA Main Terminal to Wernersville State Hospital via Penn Avenue.",3,,9C27B0,FFFFFF,12
+13,ROTA,"13","Wyomissing Hills/Berkshire Mall","ROTA Main Terminal to Wyomissing Hills via Berkshire Mall and State Hill Road",3,,795548,FFFFFF,13
+14,ROTA,"14","Broadcasting Square via North Park Road","ROTA Main Terminal to Broadcasting Square via North Park Road",3,,F48FB1,FFFFFF,14
+15,ROTA,"15","Reading Regional Airport/St. Joseph Medical Center","ROTA Main Terminal to St. Joseph Medical Center via Reading Regional Airport and Bernville Road.",3,,A1C2FA,000000,15
+16,ROTA,"16","Schuylkill Avenue","ROTA Main Terminal to Schuylkill Avenue via North Front Street.",3,,1A237E,FFFFFF,16
+17,ROTA,"17","Riverside/Cotton Street","Riverside to Cotton Street via ROTA Main Terminal.",3,,817717,FFFFFF,17
+18,ROTA,"18","Hamburg Express","ROTA Main Terminal to Tilden Ridge Shopping Center (Walmart) via Hamburg and PA-61.",3,,55C12F,FFFFFF,18
+19,ROTA,"19","Kutztown Express","ROTA Main Terminal to Kutztown via US-222.",3,,006064,FFFFFF,19
+20,ROTA,"20","Pottstown Express","ROTA Main Terminal to Charles W. Dickinson Transportation Center via US-422.",3,,9FA8DA,FFFFFF,20
